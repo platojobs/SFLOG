@@ -3,9 +3,9 @@
 #### 1. Introduction
 Daily record use: after a lot of "we media" account, I found that using Github Issues + Projects to write technology blog can be more focused, and then I continued to update my blog here
 #### 2. Log entries
-+ [读书笔记](https://github.com/PlatoJobs/SFLOG/projects/3)
-+ [技术类](https://github.com/PlatoJobs/SFLOG/projects/2)
-+ [文摘类](https://github.com/PlatoJobs/SFLOG/projects/1)
++ [Reading notes](https://github.com/PlatoJobs/SFLOG/projects/3)
++ [Technical](https://github.com/PlatoJobs/SFLOG/projects/2)
++ [Abstract](https://github.com/PlatoJobs/SFLOG/projects/1)
 
 #### 3.Other
 

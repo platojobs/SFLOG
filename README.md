@@ -1,0 +1,2 @@
+# SFLOG
+Excerpted reading notes, is to read with their own study, work, research issues related to the sentences, paragraphs and so on according to the original text accurately transcription down. After extracting the original text, the source shall be indicated, including the title, author, publisher, date of publication, page number, etc., so as to facilitate quotation and verification. Excerpts should be selected, with usefulness as the standard for excerpts.

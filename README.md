@@ -8,7 +8,7 @@
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 | carbon-language | https://github.com/carbon-language/carbon-lang | Carbon Language's main repository: documents, design, implementation, and related tools. |
-| test | https://github.com/platojobs/agenda/issues | 21 岁的少年 |
+| OpenBB | https://github.com/OpenBB-finance/OpenBBTerminal | Investment Research for Everyone, Anywhere. |
 | test | https://github.com/platojobs/agenda/issues | 22 岁的少年 |
 ## 置顶文章
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24

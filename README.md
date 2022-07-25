@@ -1,5 +1,5 @@
 
-## Gitblog  My personal blog using issues and GitHub Actions
+## day-to-day
 
 ![](https://github.com/platojobs/platojobs/blob/main/assets/home.gif)
 
@@ -7,7 +7,7 @@
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
-| test | https://github.com/platojobs/agenda/issues | 20 岁的少年 |
+| carbon-language | https://github.com/carbon-language/carbon-lang | Carbon Language's main repository: documents, design, implementation, and related tools. |
 | test | https://github.com/platojobs/agenda/issues | 21 岁的少年 |
 | test | https://github.com/platojobs/agenda/issues | 22 岁的少年 |
 ## 置顶文章

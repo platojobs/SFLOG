@@ -15,21 +15,26 @@
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
 - [得失](https://github.com/platojobs/SFLOG/issues/251)--2022-07-26
 - [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
-- [Tet22](https://github.com/platojobs/SFLOG/issues/247)--2022-07-22
 ## TOP
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 书阅
+- [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
 - [《孤独的力量》书阅](https://github.com/platojobs/SFLOG/issues/85)--2022-01-11
 - [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
 - [《许你星河千里》书阅](https://github.com/platojobs/SFLOG/issues/76)--2021-12-31
 - [《凶猛哀歌》书阅](https://github.com/platojobs/SFLOG/issues/75)--2021-12-29
+<details><summary>显示更多</summary>
+
 - [《人生海海》书阅](https://github.com/platojobs/SFLOG/issues/70)--2021-12-22
+</details>
+
 ## 思考
 - [得失](https://github.com/platojobs/SFLOG/issues/251)--2022-07-26
 - [赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/SFLOG/issues/88)--2022-01-15
@@ -103,13 +108,14 @@
 </details>
 
 ## 文摘
+- [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
 - [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [凭什么你喜欢我，我就一定要回应你](https://github.com/platojobs/SFLOG/issues/63)--2021-12-13
 - [我看到这样一个故事](https://github.com/platojobs/SFLOG/issues/62)--2021-12-07
-- [42云：好想谈恋爱](https://github.com/platojobs/SFLOG/issues/45)--2021-09-13
 <details><summary>显示更多</summary>
 
+- [42云：好想谈恋爱](https://github.com/platojobs/SFLOG/issues/45)--2021-09-13
 - [40云：不辜负对方，仅此而已](https://github.com/platojobs/SFLOG/issues/43)--2021-09-10
 - [39云：我们有多想在一起](https://github.com/platojobs/SFLOG/issues/42)--2021-09-09
 - [38云：容易失去自我的人](https://github.com/platojobs/SFLOG/issues/41)--2021-09-08

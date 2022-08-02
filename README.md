@@ -15,11 +15,11 @@
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [加油](https://github.com/platojobs/SFLOG/issues/258)--2022-08-02
 - [成熟](https://github.com/platojobs/SFLOG/issues/257)--2022-08-01
 - [热浪](https://github.com/platojobs/SFLOG/issues/256)--2022-07-31
 - [我觉得对于爱情道理人人都懂](https://github.com/platojobs/SFLOG/issues/255)--2022-07-31
 - [在读](https://github.com/platojobs/SFLOG/issues/254)--2022-07-30
-- [全世界替江洋向林澜告白](https://github.com/platojobs/SFLOG/issues/253)--2022-07-28
 ## TOP
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
@@ -36,6 +36,7 @@
 </details>
 
 ## 思考
+- [加油](https://github.com/platojobs/SFLOG/issues/258)--2022-08-02
 - [得失](https://github.com/platojobs/SFLOG/issues/251)--2022-07-26
 - [赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/SFLOG/issues/88)--2022-01-15
 - [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03

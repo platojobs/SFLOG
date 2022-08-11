@@ -17,7 +17,7 @@ MD_HEAD = """
 """
 
 BACKUP_DIR = "BACKUP"
-ANCHOR_NUMBER = 5
+ANCHOR_NUMBER = 25
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]
@@ -168,7 +168,7 @@ def add_md_firends(repo, md, me):
         md.write(s)
 
 
-def add_md_recent(repo, md, me, limit=5):
+def add_md_recent(repo, md, me, limit=15):
     count = 0
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)

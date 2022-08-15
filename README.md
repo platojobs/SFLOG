@@ -94,6 +94,7 @@
 ## 技术
 - [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
 - [数据结构](https://github.com/platojobs/SFLOG/issues/95)--2022-01-25
+- [swift冒泡排序测试](https://github.com/platojobs/SFLOG/issues/90)--2022-01-18
 - [56:iOS获取最新设备型号](https://github.com/platojobs/SFLOG/issues/60)--2021-11-09
 - [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
 - [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21

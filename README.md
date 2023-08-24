@@ -15,6 +15,7 @@
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
 - [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
 - [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
 - [我好爱你](https://github.com/platojobs/SFLOG/issues/300)--2023-07-22
@@ -29,12 +30,12 @@
 - [我觉得在感情中细节真的太重要了](https://github.com/platojobs/SFLOG/issues/291)--2022-12-20
 - [一定要和喜欢的人有效沟通。](https://github.com/platojobs/SFLOG/issues/290)--2022-12-18
 - [在那个对的人到来之前，相信爱，等待爱，学习爱](https://github.com/platojobs/SFLOG/issues/289)--2022-12-15
-- [给我一点点自信，就够了](https://github.com/platojobs/SFLOG/issues/288)--2022-12-10
 ## TOP
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 书阅
+- [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
 - [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
 - [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
 - [食物缺盐是乏味](https://github.com/platojobs/SFLOG/issues/299)--2023-07-21

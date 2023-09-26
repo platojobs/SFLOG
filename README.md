@@ -15,6 +15,7 @@
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
 - [来自余华的写作建议。](https://github.com/platojobs/SFLOG/issues/313)--2023-09-25
 - [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
 - [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
@@ -29,7 +30,6 @@
 - [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
 - [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
 - [我好爱你](https://github.com/platojobs/SFLOG/issues/300)--2023-07-22
-- [食物缺盐是乏味](https://github.com/platojobs/SFLOG/issues/299)--2023-07-21
 ## TOP
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
@@ -56,6 +56,7 @@
 - [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
 - [我不能接受自己不好的这一面](https://github.com/platojobs/SFLOG/issues/72)--2021-12-26
 ## 情感
+- [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
 - [我一个很好的朋友去年结婚了。](https://github.com/platojobs/SFLOG/issues/309)--2023-09-17
 - [最近在被一个大学生追](https://github.com/platojobs/SFLOG/issues/307)--2023-09-16
 - [一个朋友放弃了一直很喜欢的男生](https://github.com/platojobs/SFLOG/issues/305)--2023-09-15
@@ -80,9 +81,9 @@
 - [41云：安全感的一些点](https://github.com/platojobs/SFLOG/issues/44)--2021-09-12
 - [40云：不辜负对方，仅此而已](https://github.com/platojobs/SFLOG/issues/43)--2021-09-10
 - [39云：我们有多想在一起](https://github.com/platojobs/SFLOG/issues/42)--2021-09-09
-- [38云：容易失去自我的人](https://github.com/platojobs/SFLOG/issues/41)--2021-09-08
 <details><summary>显示更多</summary>
 
+- [38云：容易失去自我的人](https://github.com/platojobs/SFLOG/issues/41)--2021-09-08
 - [37云：带着尊严，诗意的活下去](https://github.com/platojobs/SFLOG/issues/40)--2021-09-07
 - [36云：真心换真心，好好做自己](https://github.com/platojobs/SFLOG/issues/36)--2021-09-03
 - [35云：能够从容坦然的被爱是一种更难拥有的能力](https://github.com/platojobs/SFLOG/issues/35)--2021-08-31

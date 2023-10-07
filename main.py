@@ -259,7 +259,7 @@ def generate_rss_feed(repo, filename, me):
     generator.atom_file(filename)
 
 
-def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
+def platojobs_main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     user = login(token)
     me = get_me(user)
     repo = get_repo(user, repo_name)
@@ -300,4 +300,4 @@ if __name__ == "__main__":
         "--issue_number", help="issue_number", default=None, required=False
     )
     options = parser.parse_args()
-    main(options.github_token, options.repo_name, options.issue_number)
+    platojobs_main(options.github_token, options.repo_name, options.issue_number)

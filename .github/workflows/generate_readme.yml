@@ -1,5 +1,5 @@
 
-name: Generate GitBlog README
+name: PJGenerate GitBlog README
 
 on:
   workflow_dispatch:

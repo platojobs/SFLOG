@@ -247,9 +247,10 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
-- [听闻古剑奇谭](https://github.com/platojobs/SFLOG/issues/99)--2022-01-29
+- [1](https://github.com/platojobs/SFLOG/issues/233)--2022-07-01
 <details><summary>显示更多</summary>
 
+- [听闻古剑奇谭](https://github.com/platojobs/SFLOG/issues/99)--2022-01-29
 - [叶逸凡站在何嘉如的前途里](https://github.com/platojobs/SFLOG/issues/97)--2022-01-27
 - [张小娴《总有一天》](https://github.com/platojobs/SFLOG/issues/92)--2022-01-20
 - [《孤独的力量》书阅](https://github.com/platojobs/SFLOG/issues/85)--2022-01-11

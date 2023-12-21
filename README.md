@@ -35,17 +35,18 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [能努力做的，居然只剩下了忘记](https://github.com/platojobs/SFLOG/issues/324)--2023-12-21
 - [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
 - [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
 - [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
 - [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
-- [原来这才是休息2](https://github.com/platojobs/SFLOG/issues/319)--2023-09-30
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
 - [02云：职场实习攻略](https://github.com/platojobs/SFLOG/issues/2)--2021-08-05
 ## Abstract
+- [能努力做的，居然只剩下了忘记](https://github.com/platojobs/SFLOG/issues/324)--2023-12-21
 - [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
 - [原来这才是休息2](https://github.com/platojobs/SFLOG/issues/319)--2023-09-30
 - [原来这才是休息1](https://github.com/platojobs/SFLOG/issues/318)--2023-09-30
@@ -55,9 +56,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [来自余华的写作建议。](https://github.com/platojobs/SFLOG/issues/313)--2023-09-25
 - [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
 - [不管你信不信](https://github.com/platojobs/SFLOG/issues/310)--2023-09-18
-- [24条让人受益的箴言](https://github.com/platojobs/SFLOG/issues/306)--2023-09-16
 <details><summary>显示更多</summary>
 
+- [24条让人受益的箴言](https://github.com/platojobs/SFLOG/issues/306)--2023-09-16
 - [该休息休息](https://github.com/platojobs/SFLOG/issues/304)--2023-09-07
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10

@@ -1,134 +1,58 @@
+## Gitblog
+My personal blog using issues and GitHub Actions (哈哈)
+[E6高调](https://baidu.com)
 
-## day-to-day
+## [友情链接](https://github.com/platojobs/gitblog/issues/66)
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Link</th>
+<th>Desc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>carbon-language</td>
+<td>https://github.com/carbon-language/carbon-lang</td>
+<td>Carbon Language's main repository: documents, design, implementation, and related tools.</td>
+</tr>
+<tr>
+<td>OpenBB</td>
+<td>https://github.com/OpenBB-finance/OpenBBTerminal</td>
+<td>Investment Research for Everyone, Anywhere.</td>
+</tr>
+<tr>
+<td>vsouza</td>
+<td>https://github.com/vsouza/awesome-ios</td>
+<td>A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects</td>
+</tr>
+</tbody>
+</table>
 
-![](https://github.com/platojobs/platojobs/blob/main/assets/home.gif)
-
-[RSS Feed](https://raw.githubusercontent.com/platojobs/SFLOG/master/feed.xml)
-## 友情链接
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
-| carbon-language | https://github.com/carbon-language/carbon-lang | Carbon Language's main repository: documents, design, implementation, and related tools. |
-| OpenBB | https://github.com/OpenBB-finance/OpenBBTerminal | Investment Research for Everyone, Anywhere. |
-| vsouza | https://github.com/vsouza/awesome-ios | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |
 ## 置顶文章
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [测试](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
+- [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
+- [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
+- [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
+- [原来这才是休息2](https://github.com/platojobs/SFLOG/issues/319)--2023-09-30
+## Workplace
+- [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
+- [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
+- [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
+- [02云：职场实习攻略](https://github.com/platojobs/SFLOG/issues/2)--2021-08-05
+## :framed_picture:封面
+- [测试](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
+- [原来这才是休息2](https://github.com/platojobs/SFLOG/issues/319)--2023-09-30
+- [原来这才是休息1](https://github.com/platojobs/SFLOG/issues/318)--2023-09-30
 - [文摘，一次](https://github.com/platojobs/SFLOG/issues/317)--2023-09-29
 - [杨绛语录](https://github.com/platojobs/SFLOG/issues/316)--2023-09-28
-- [爱这种东西，有心者不用教](https://github.com/platojobs/SFLOG/issues/315)--2023-09-27
-- [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
-- [来自余华的写作建议。](https://github.com/platojobs/SFLOG/issues/313)--2023-09-25
-- [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
-- [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
-- [不管你信不信](https://github.com/platojobs/SFLOG/issues/310)--2023-09-18
-- [我一个很好的朋友去年结婚了。](https://github.com/platojobs/SFLOG/issues/309)--2023-09-17
-- [好朋友会让我有安全感的一些点](https://github.com/platojobs/SFLOG/issues/308)--2023-09-16
-- [最近在被一个大学生追](https://github.com/platojobs/SFLOG/issues/307)--2023-09-16
-- [24条让人受益的箴言](https://github.com/platojobs/SFLOG/issues/306)--2023-09-16
-- [一个朋友放弃了一直很喜欢的男生](https://github.com/platojobs/SFLOG/issues/305)--2023-09-15
-- [该休息休息](https://github.com/platojobs/SFLOG/issues/304)--2023-09-07
-- [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
-## TOP
-- [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
-- [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
-- [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
-## 书阅
-- [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
-- [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
-- [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
-- [食物缺盐是乏味](https://github.com/platojobs/SFLOG/issues/299)--2023-07-21
-- [《乌合之众》](https://github.com/platojobs/SFLOG/issues/297)--2023-06-27
-- [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
-- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
-- [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
-- [《孤独的力量》书阅](https://github.com/platojobs/SFLOG/issues/85)--2022-01-11
-- [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
-- [《许你星河千里》书阅](https://github.com/platojobs/SFLOG/issues/76)--2021-12-31
-- [《凶猛哀歌》书阅](https://github.com/platojobs/SFLOG/issues/75)--2021-12-29
-- [《人生海海》书阅](https://github.com/platojobs/SFLOG/issues/70)--2021-12-22
-## 思考
-- [排解压力](https://github.com/platojobs/SFLOG/issues/277)--2022-09-04
-- [加油](https://github.com/platojobs/SFLOG/issues/258)--2022-08-02
-- [得失](https://github.com/platojobs/SFLOG/issues/251)--2022-07-26
-- [赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/SFLOG/issues/88)--2022-01-15
-- [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
-- [我不能接受自己不好的这一面](https://github.com/platojobs/SFLOG/issues/72)--2021-12-26
-## 情感
-- [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
-- [我一个很好的朋友去年结婚了。](https://github.com/platojobs/SFLOG/issues/309)--2023-09-17
-- [最近在被一个大学生追](https://github.com/platojobs/SFLOG/issues/307)--2023-09-16
-- [一个朋友放弃了一直很喜欢的男生](https://github.com/platojobs/SFLOG/issues/305)--2023-09-15
-- [我好爱你](https://github.com/platojobs/SFLOG/issues/300)--2023-07-22
-- [合适且开心](https://github.com/platojobs/SFLOG/issues/298)--2023-07-04
-- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
-- [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
-- [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
-- [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
-- [我现在喜欢慢一点的关系](https://github.com/platojobs/SFLOG/issues/87)--2022-01-14
-- [我觉得仪式感真的很重要](https://github.com/platojobs/SFLOG/issues/86)--2022-01-13
-- [我一直都觉得](https://github.com/platojobs/SFLOG/issues/83)--2022-01-07
-- [你想什么呢，不喜欢小孩？](https://github.com/platojobs/SFLOG/issues/81)--2022-01-05
-- [我身边越来越多的人都是单身的状态](https://github.com/platojobs/SFLOG/issues/78)--2022-01-02
-- [好的爱情](https://github.com/platojobs/SFLOG/issues/77)--2022-01-01
-- [不成熟的爱](https://github.com/platojobs/SFLOG/issues/74)--2021-12-28
-- [我想起以前和一个姑娘一起吃饭](https://github.com/platojobs/SFLOG/issues/69)--2021-12-21
-- [现在恋爱真的太难了](https://github.com/platojobs/SFLOG/issues/68)--2021-12-19
-- [先是工作被开然后恋爱告吹](https://github.com/platojobs/SFLOG/issues/65)--2021-12-15
-- [请认真回应那些废话吧](https://github.com/platojobs/SFLOG/issues/64)--2021-12-14
-- [42云：好想谈恋爱](https://github.com/platojobs/SFLOG/issues/45)--2021-09-13
-- [41云：安全感的一些点](https://github.com/platojobs/SFLOG/issues/44)--2021-09-12
-- [40云：不辜负对方，仅此而已](https://github.com/platojobs/SFLOG/issues/43)--2021-09-10
-- [39云：我们有多想在一起](https://github.com/platojobs/SFLOG/issues/42)--2021-09-09
 <details><summary>显示更多</summary>
 
-- [38云：容易失去自我的人](https://github.com/platojobs/SFLOG/issues/41)--2021-09-08
-- [37云：带着尊严，诗意的活下去](https://github.com/platojobs/SFLOG/issues/40)--2021-09-07
-- [36云：真心换真心，好好做自己](https://github.com/platojobs/SFLOG/issues/36)--2021-09-03
-- [35云：能够从容坦然的被爱是一种更难拥有的能力](https://github.com/platojobs/SFLOG/issues/35)--2021-08-31
-- [34云：爱人啊，失去自己的同时，会先失去了对方](https://github.com/platojobs/SFLOG/issues/34)--2021-08-30
-- [32云：做真实的自己吧](https://github.com/platojobs/SFLOG/issues/32)--2021-08-27
-- [31云：坦然接受，并且好好享受](https://github.com/platojobs/SFLOG/issues/31)--2021-08-25
-- [30云：大胆去做自己、去表达喜欢就好了](https://github.com/platojobs/SFLOG/issues/30)--2021-08-24
-- [29云：慢慢喜欢你，余生全是你](https://github.com/platojobs/SFLOG/issues/29)--2021-08-20
-- [28云：狂风暴雨](https://github.com/platojobs/SFLOG/issues/28)--2021-08-13
-- [27云： 条令人惊艳的小句子](https://github.com/platojobs/SFLOG/issues/27)--2021-08-12
-- [26云：我有一天开车回老家](https://github.com/platojobs/SFLOG/issues/26)--2021-08-10
-- [25云：我觉得一个人单身太久未必就是太挑](https://github.com/platojobs/SFLOG/issues/25)--2021-08-09
-- [24云：我想找一个对我好的人](https://github.com/platojobs/SFLOG/issues/24)--2021-08-08
-- [23云：为什么越温柔有教养的男生越难追？](https://github.com/platojobs/SFLOG/issues/23)--2021-08-08
-- [22云：你在分手后，想念持续了多久](https://github.com/platojobs/SFLOG/issues/22)--2021-08-08
-- [21云：恋爱真理](https://github.com/platojobs/SFLOG/issues/21)--2021-08-07
-- [15云：有哪些给女孩子在谈恋爱中的忠告？](https://github.com/platojobs/SFLOG/issues/15)--2021-08-06
-- [06云：要么不开始，要么一辈子](https://github.com/platojobs/SFLOG/issues/6)--2021-08-05
-- [05云：我的女朋友](https://github.com/platojobs/SFLOG/issues/5)--2021-08-05
-- [01云: 温柔的人](https://github.com/platojobs/SFLOG/issues/1)--2021-08-05
-</details>
-
-## 技术
-- [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
-- [数据结构](https://github.com/platojobs/SFLOG/issues/95)--2022-01-25
-- [swift冒泡排序测试](https://github.com/platojobs/SFLOG/issues/90)--2022-01-18
-- [56:iOS获取最新设备型号](https://github.com/platojobs/SFLOG/issues/60)--2021-11-09
-- [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
-- [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
-- [52:NSData *类型的图片数据获取图片以及图片名称和类型](https://github.com/platojobs/SFLOG/issues/56)--2021-10-14
-- [47云：swift的lazy ](https://github.com/platojobs/SFLOG/issues/50)--2021-09-18
-- [46云：Block对象变量捕获](https://github.com/platojobs/SFLOG/issues/49)--2021-09-17
-- [45云：_modify和yield](https://github.com/platojobs/SFLOG/issues/48)--2021-09-16
-- [41云：安全感的一些点](https://github.com/platojobs/SFLOG/issues/44)--2021-09-12
-- [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27
-- [18云：git命令](https://github.com/platojobs/SFLOG/issues/18)--2021-08-07
-- [17云：安装包瘦身](https://github.com/platojobs/SFLOG/issues/17)--2021-08-07
-- [13云：音频编码格式](https://github.com/platojobs/SFLOG/issues/13)--2021-08-06
-- [12云：pod-install出现警告ruby的警告](https://github.com/platojobs/SFLOG/issues/12)--2021-08-06
-- [11云：swift类和结构体内存分配探索](https://github.com/platojobs/SFLOG/issues/11)--2021-08-06
-- [08云：经典编程书籍](https://github.com/platojobs/SFLOG/issues/8)--2021-08-05
-- [04云：内存中的区域划分](https://github.com/platojobs/SFLOG/issues/4)--2021-08-05
-## 文摘
-- [文摘，一次](https://github.com/platojobs/SFLOG/issues/317)--2023-09-29
-- [杨绛语录](https://github.com/platojobs/SFLOG/issues/316)--2023-09-28
 - [爱这种东西，有心者不用教](https://github.com/platojobs/SFLOG/issues/315)--2023-09-27
 - [来自余华的写作建议。](https://github.com/platojobs/SFLOG/issues/313)--2023-09-25
 - [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
@@ -152,8 +76,6 @@
 - [有趣一些](https://github.com/platojobs/SFLOG/issues/282)--2022-10-15
 - [最后陪伴我身边的](https://github.com/platojobs/SFLOG/issues/281)--2022-10-02
 - [步伐一致太重要了](https://github.com/platojobs/SFLOG/issues/280)--2022-09-13
-<details><summary>显示更多</summary>
-
 - [我倾注了心思的关系](https://github.com/platojobs/SFLOG/issues/279)--2022-09-07
 - [秒回](https://github.com/platojobs/SFLOG/issues/278)--2022-09-05
 - [坚持](https://github.com/platojobs/SFLOG/issues/276)--2022-09-03
@@ -212,31 +134,141 @@
 - [01云: 温柔的人](https://github.com/platojobs/SFLOG/issues/1)--2021-08-05
 </details>
 
-## 日常琐碎
+## 开源
+- [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
+- [我一个很好的朋友去年结婚了。](https://github.com/platojobs/SFLOG/issues/309)--2023-09-17
+- [最近在被一个大学生追](https://github.com/platojobs/SFLOG/issues/307)--2023-09-16
+- [一个朋友放弃了一直很喜欢的男生](https://github.com/platojobs/SFLOG/issues/305)--2023-09-15
+- [我好爱你](https://github.com/platojobs/SFLOG/issues/300)--2023-07-22
+<details><summary>显示更多</summary>
+
+- [合适且开心](https://github.com/platojobs/SFLOG/issues/298)--2023-07-04
+- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
+- [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
+- [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
+- [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
+- [我现在喜欢慢一点的关系](https://github.com/platojobs/SFLOG/issues/87)--2022-01-14
+- [我觉得仪式感真的很重要](https://github.com/platojobs/SFLOG/issues/86)--2022-01-13
+- [我一直都觉得](https://github.com/platojobs/SFLOG/issues/83)--2022-01-07
+- [你想什么呢，不喜欢小孩？](https://github.com/platojobs/SFLOG/issues/81)--2022-01-05
+- [我身边越来越多的人都是单身的状态](https://github.com/platojobs/SFLOG/issues/78)--2022-01-02
+- [好的爱情](https://github.com/platojobs/SFLOG/issues/77)--2022-01-01
+- [不成熟的爱](https://github.com/platojobs/SFLOG/issues/74)--2021-12-28
+- [我想起以前和一个姑娘一起吃饭](https://github.com/platojobs/SFLOG/issues/69)--2021-12-21
+- [现在恋爱真的太难了](https://github.com/platojobs/SFLOG/issues/68)--2021-12-19
+- [先是工作被开然后恋爱告吹](https://github.com/platojobs/SFLOG/issues/65)--2021-12-15
+- [请认真回应那些废话吧](https://github.com/platojobs/SFLOG/issues/64)--2021-12-14
+- [42云：好想谈恋爱](https://github.com/platojobs/SFLOG/issues/45)--2021-09-13
+- [41云：安全感的一些点](https://github.com/platojobs/SFLOG/issues/44)--2021-09-12
+- [40云：不辜负对方，仅此而已](https://github.com/platojobs/SFLOG/issues/43)--2021-09-10
+- [39云：我们有多想在一起](https://github.com/platojobs/SFLOG/issues/42)--2021-09-09
+- [38云：容易失去自我的人](https://github.com/platojobs/SFLOG/issues/41)--2021-09-08
+- [37云：带着尊严，诗意的活下去](https://github.com/platojobs/SFLOG/issues/40)--2021-09-07
+- [36云：真心换真心，好好做自己](https://github.com/platojobs/SFLOG/issues/36)--2021-09-03
+- [35云：能够从容坦然的被爱是一种更难拥有的能力](https://github.com/platojobs/SFLOG/issues/35)--2021-08-31
+- [34云：爱人啊，失去自己的同时，会先失去了对方](https://github.com/platojobs/SFLOG/issues/34)--2021-08-30
+- [32云：做真实的自己吧](https://github.com/platojobs/SFLOG/issues/32)--2021-08-27
+- [31云：坦然接受，并且好好享受](https://github.com/platojobs/SFLOG/issues/31)--2021-08-25
+- [30云：大胆去做自己、去表达喜欢就好了](https://github.com/platojobs/SFLOG/issues/30)--2021-08-24
+- [29云：慢慢喜欢你，余生全是你](https://github.com/platojobs/SFLOG/issues/29)--2021-08-20
+- [28云：狂风暴雨](https://github.com/platojobs/SFLOG/issues/28)--2021-08-13
+- [27云： 条令人惊艳的小句子](https://github.com/platojobs/SFLOG/issues/27)--2021-08-12
+- [26云：我有一天开车回老家](https://github.com/platojobs/SFLOG/issues/26)--2021-08-10
+- [25云：我觉得一个人单身太久未必就是太挑](https://github.com/platojobs/SFLOG/issues/25)--2021-08-09
+- [24云：我想找一个对我好的人](https://github.com/platojobs/SFLOG/issues/24)--2021-08-08
+- [23云：为什么越温柔有教养的男生越难追？](https://github.com/platojobs/SFLOG/issues/23)--2021-08-08
+- [22云：你在分手后，想念持续了多久](https://github.com/platojobs/SFLOG/issues/22)--2021-08-08
+- [21云：恋爱真理](https://github.com/platojobs/SFLOG/issues/21)--2021-08-07
+- [15云：有哪些给女孩子在谈恋爱中的忠告？](https://github.com/platojobs/SFLOG/issues/15)--2021-08-06
+- [06云：要么不开始，要么一辈子](https://github.com/platojobs/SFLOG/issues/6)--2021-08-05
+- [05云：我的女朋友](https://github.com/platojobs/SFLOG/issues/5)--2021-08-05
+- [01云: 温柔的人](https://github.com/platojobs/SFLOG/issues/1)--2021-08-05
+</details>
+
+## MobileDevelopment
+- [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
+- [swift跳出语句](https://github.com/platojobs/SFLOG/issues/89)--2022-01-17
+- [随手记](https://github.com/platojobs/SFLOG/issues/84)--2022-01-08
+- [57:swiftc常用命令](https://github.com/platojobs/SFLOG/issues/61)--2021-11-30
+- [55:BlockOperation](https://github.com/platojobs/SFLOG/issues/59)--2021-10-25
+<details><summary>显示更多</summary>
+
+- [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
+- [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
+- [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27
+- [19云：iOS 13.0以后presentViewController](https://github.com/platojobs/SFLOG/issues/19)--2021-08-07
+</details>
+
+## Technology
+- [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
+- [数据结构](https://github.com/platojobs/SFLOG/issues/95)--2022-01-25
+- [swift冒泡排序测试](https://github.com/platojobs/SFLOG/issues/90)--2022-01-18
+- [56:iOS获取最新设备型号](https://github.com/platojobs/SFLOG/issues/60)--2021-11-09
+- [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
+<details><summary>显示更多</summary>
+
+- [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
+- [52:NSData *类型的图片数据获取图片以及图片名称和类型](https://github.com/platojobs/SFLOG/issues/56)--2021-10-14
+- [47云：swift的lazy ](https://github.com/platojobs/SFLOG/issues/50)--2021-09-18
+- [46云：Block对象变量捕获](https://github.com/platojobs/SFLOG/issues/49)--2021-09-17
+- [45云：_modify和yield](https://github.com/platojobs/SFLOG/issues/48)--2021-09-16
+- [41云：安全感的一些点](https://github.com/platojobs/SFLOG/issues/44)--2021-09-12
+- [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27
+- [18云：git命令](https://github.com/platojobs/SFLOG/issues/18)--2021-08-07
+- [17云：安装包瘦身](https://github.com/platojobs/SFLOG/issues/17)--2021-08-07
+- [13云：音频编码格式](https://github.com/platojobs/SFLOG/issues/13)--2021-08-06
+- [12云：pod-install出现警告ruby的警告](https://github.com/platojobs/SFLOG/issues/12)--2021-08-06
+- [11云：swift类和结构体内存分配探索](https://github.com/platojobs/SFLOG/issues/11)--2021-08-06
+- [08云：经典编程书籍](https://github.com/platojobs/SFLOG/issues/8)--2021-08-05
+- [04云：内存中的区域划分](https://github.com/platojobs/SFLOG/issues/4)--2021-08-05
+</details>
+
+## BookReading
+- [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
+- [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
+- [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
+- [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
+- [食物缺盐是乏味](https://github.com/platojobs/SFLOG/issues/299)--2023-07-21
+<details><summary>显示更多</summary>
+
+- [《乌合之众》](https://github.com/platojobs/SFLOG/issues/297)--2023-06-27
+- [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
+- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
+- [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
+- [《孤独的力量》书阅](https://github.com/platojobs/SFLOG/issues/85)--2022-01-11
+- [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
+- [《许你星河千里》书阅](https://github.com/platojobs/SFLOG/issues/76)--2021-12-31
+- [《凶猛哀歌》书阅](https://github.com/platojobs/SFLOG/issues/75)--2021-12-29
+- [《人生海海》书阅](https://github.com/platojobs/SFLOG/issues/70)--2021-12-22
+</details>
+
+## DailyTrivialMatters
+- [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
+- [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
 - [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
 - [好朋友会让我有安全感的一些点](https://github.com/platojobs/SFLOG/issues/308)--2023-09-16
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
+<details><summary>显示更多</summary>
+
 - [单身](https://github.com/platojobs/SFLOG/issues/286)--2022-10-22
 - [Tet22](https://github.com/platojobs/SFLOG/issues/247)--2022-07-22
 - [早安](https://github.com/platojobs/SFLOG/issues/246)--2022-07-22
 - [吐槽](https://github.com/platojobs/SFLOG/issues/82)--2022-01-06
 - [可我只是在追剧啊啊啊](https://github.com/platojobs/SFLOG/issues/73)--2021-12-27
 - [孩子最可怜](https://github.com/platojobs/SFLOG/issues/71)--2021-12-24
-## 移动开发
-- [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
-- [swift跳出语句](https://github.com/platojobs/SFLOG/issues/89)--2022-01-17
-- [随手记](https://github.com/platojobs/SFLOG/issues/84)--2022-01-08
-- [57:swiftc常用命令](https://github.com/platojobs/SFLOG/issues/61)--2021-11-30
-- [55:BlockOperation](https://github.com/platojobs/SFLOG/issues/59)--2021-10-25
-- [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
-- [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
-- [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27
-- [19云：iOS 13.0以后presentViewController](https://github.com/platojobs/SFLOG/issues/19)--2021-08-07
-## 职场
-- [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
-- [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
-- [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
-- [02云：职场实习攻略](https://github.com/platojobs/SFLOG/issues/2)--2021-08-05
+</details>
+
+## Think
+- [排解压力](https://github.com/platojobs/SFLOG/issues/277)--2022-09-04
+- [加油](https://github.com/platojobs/SFLOG/issues/258)--2022-08-02
+- [得失](https://github.com/platojobs/SFLOG/issues/251)--2022-07-26
+- [赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/SFLOG/issues/88)--2022-01-15
+- [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
+<details><summary>显示更多</summary>
+
+- [我不能接受自己不好的这一面](https://github.com/platojobs/SFLOG/issues/72)--2021-12-26
+</details>
+
 ## TODO
 TODO list from [你想什么呢，不喜欢小孩？](https://github.com/platojobs/SFLOG/issues/81) all done
 

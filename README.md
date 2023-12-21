@@ -104,6 +104,8 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
 - [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
+- [我仍然想在冬天遇到你](https://github.com/platojobs/SFLOG/issues/96)--2022-01-26
+- [我是一个很需要被爱的人](https://github.com/platojobs/SFLOG/issues/94)--2022-01-24
 - [我终于明白了细节打败爱情这句话](https://github.com/platojobs/SFLOG/issues/93)--2022-01-22
 - [凭什么你喜欢我，我就一定要回应你](https://github.com/platojobs/SFLOG/issues/63)--2021-12-13
 - [我看到这样一个故事](https://github.com/platojobs/SFLOG/issues/62)--2021-12-07

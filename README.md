@@ -35,7 +35,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
-- [测试](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
+- [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
 - [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
 - [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
 - [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
@@ -45,8 +45,8 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
 - [02云：职场实习攻略](https://github.com/platojobs/SFLOG/issues/2)--2021-08-05
-## :framed_picture:封面
-- [测试](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
+## Abstract
+- [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
 - [原来这才是休息2](https://github.com/platojobs/SFLOG/issues/319)--2023-09-30
 - [原来这才是休息1](https://github.com/platojobs/SFLOG/issues/318)--2023-09-30
 - [文摘，一次](https://github.com/platojobs/SFLOG/issues/317)--2023-09-29
@@ -134,7 +134,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [01云: 温柔的人](https://github.com/platojobs/SFLOG/issues/1)--2021-08-05
 </details>
 
-## 开源
+## Emo
 - [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
 - [我一个很好的朋友去年结婚了。](https://github.com/platojobs/SFLOG/issues/309)--2023-09-17
 - [最近在被一个大学生追](https://github.com/platojobs/SFLOG/issues/307)--2023-09-16

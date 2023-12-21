@@ -1,6 +1,6 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (哈哈)
-[E6高调](https://baidu.com)
+[E6高调](https://github.com/platojobs)
 
 ## [友情链接](https://github.com/platojobs/gitblog/issues/66)
 <table>
@@ -51,13 +51,13 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [原来这才是休息1](https://github.com/platojobs/SFLOG/issues/318)--2023-09-30
 - [文摘，一次](https://github.com/platojobs/SFLOG/issues/317)--2023-09-29
 - [杨绛语录](https://github.com/platojobs/SFLOG/issues/316)--2023-09-28
-<details><summary>显示更多</summary>
-
 - [爱这种东西，有心者不用教](https://github.com/platojobs/SFLOG/issues/315)--2023-09-27
 - [来自余华的写作建议。](https://github.com/platojobs/SFLOG/issues/313)--2023-09-25
 - [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
 - [不管你信不信](https://github.com/platojobs/SFLOG/issues/310)--2023-09-18
 - [24条让人受益的箴言](https://github.com/platojobs/SFLOG/issues/306)--2023-09-16
+<details><summary>显示更多</summary>
+
 - [该休息休息](https://github.com/platojobs/SFLOG/issues/304)--2023-09-07
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
@@ -140,13 +140,13 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [最近在被一个大学生追](https://github.com/platojobs/SFLOG/issues/307)--2023-09-16
 - [一个朋友放弃了一直很喜欢的男生](https://github.com/platojobs/SFLOG/issues/305)--2023-09-15
 - [我好爱你](https://github.com/platojobs/SFLOG/issues/300)--2023-07-22
-<details><summary>显示更多</summary>
-
 - [合适且开心](https://github.com/platojobs/SFLOG/issues/298)--2023-07-04
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
+<details><summary>显示更多</summary>
+
 - [我现在喜欢慢一点的关系](https://github.com/platojobs/SFLOG/issues/87)--2022-01-14
 - [我觉得仪式感真的很重要](https://github.com/platojobs/SFLOG/issues/86)--2022-01-13
 - [我一直都觉得](https://github.com/platojobs/SFLOG/issues/83)--2022-01-07
@@ -191,27 +191,23 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [随手记](https://github.com/platojobs/SFLOG/issues/84)--2022-01-08
 - [57:swiftc常用命令](https://github.com/platojobs/SFLOG/issues/61)--2021-11-30
 - [55:BlockOperation](https://github.com/platojobs/SFLOG/issues/59)--2021-10-25
-<details><summary>显示更多</summary>
-
 - [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
 - [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
 - [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27
 - [19云：iOS 13.0以后presentViewController](https://github.com/platojobs/SFLOG/issues/19)--2021-08-07
-</details>
-
 ## Technology
 - [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
 - [数据结构](https://github.com/platojobs/SFLOG/issues/95)--2022-01-25
 - [swift冒泡排序测试](https://github.com/platojobs/SFLOG/issues/90)--2022-01-18
 - [56:iOS获取最新设备型号](https://github.com/platojobs/SFLOG/issues/60)--2021-11-09
 - [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
-<details><summary>显示更多</summary>
-
 - [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
 - [52:NSData *类型的图片数据获取图片以及图片名称和类型](https://github.com/platojobs/SFLOG/issues/56)--2021-10-14
 - [47云：swift的lazy ](https://github.com/platojobs/SFLOG/issues/50)--2021-09-18
 - [46云：Block对象变量捕获](https://github.com/platojobs/SFLOG/issues/49)--2021-09-17
 - [45云：_modify和yield](https://github.com/platojobs/SFLOG/issues/48)--2021-09-16
+<details><summary>显示更多</summary>
+
 - [41云：安全感的一些点](https://github.com/platojobs/SFLOG/issues/44)--2021-09-12
 - [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27
 - [18云：git命令](https://github.com/platojobs/SFLOG/issues/18)--2021-08-07
@@ -229,13 +225,13 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
 - [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
 - [食物缺盐是乏味](https://github.com/platojobs/SFLOG/issues/299)--2023-07-21
-<details><summary>显示更多</summary>
-
 - [《乌合之众》](https://github.com/platojobs/SFLOG/issues/297)--2023-06-27
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
 - [《孤独的力量》书阅](https://github.com/platojobs/SFLOG/issues/85)--2022-01-11
+<details><summary>显示更多</summary>
+
 - [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
 - [《许你星河千里》书阅](https://github.com/platojobs/SFLOG/issues/76)--2021-12-31
 - [《凶猛哀歌》书阅](https://github.com/platojobs/SFLOG/issues/75)--2021-12-29
@@ -248,13 +244,13 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
 - [好朋友会让我有安全感的一些点](https://github.com/platojobs/SFLOG/issues/308)--2023-09-16
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
-<details><summary>显示更多</summary>
-
 - [单身](https://github.com/platojobs/SFLOG/issues/286)--2022-10-22
 - [Tet22](https://github.com/platojobs/SFLOG/issues/247)--2022-07-22
 - [早安](https://github.com/platojobs/SFLOG/issues/246)--2022-07-22
 - [吐槽](https://github.com/platojobs/SFLOG/issues/82)--2022-01-06
 - [可我只是在追剧啊啊啊](https://github.com/platojobs/SFLOG/issues/73)--2021-12-27
+<details><summary>显示更多</summary>
+
 - [孩子最可怜](https://github.com/platojobs/SFLOG/issues/71)--2021-12-24
 </details>
 
@@ -264,11 +260,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [得失](https://github.com/platojobs/SFLOG/issues/251)--2022-07-26
 - [赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/SFLOG/issues/88)--2022-01-15
 - [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
-<details><summary>显示更多</summary>
-
 - [我不能接受自己不好的这一面](https://github.com/platojobs/SFLOG/issues/72)--2021-12-26
-</details>
-
 ## TODO
 TODO list from [你想什么呢，不喜欢小孩？](https://github.com/platojobs/SFLOG/issues/81) all done
 

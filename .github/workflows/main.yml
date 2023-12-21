@@ -1,40 +1,51 @@
 
 name: PJGenerate GitBlog README
 
-on: [issues, issue_comment]
+on:
+  workflow_dispatch:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+  push:
+    branches:
+      - master
+    paths:
+      - main.py
 
 jobs:
-  build:
 
+sync:
+    name: Generate README
     runs-on: ubuntu-latest
-    
+    if: github.repository_owner_id == github.event.issue.user.id || github.event_name == 'push'
     steps:
-    - uses: actions/checkout@main
-    - name: install dependencies
-      run: |
-        pip3 install setuptools --user
-        pip3 install PyGithub --user
-        pip3 install wordcloud --user
-        pip3 install matplotlib --user
-    - name: run python script
-      env:
-        GITHUB_LOGIN: platojobs
-        GITHUB_TOKEN: ${{ secrets.SF_L }}
-      run: python3 main.py
-    - name: config git info
-      run: |
-        git config --global user.email "platojobs@qq.com"
-        git config --global user.name "platojobs"
-    - name: commit change
-      run: |
-        git checkout master
-        git add .
-        git commit -m "Update from Github Action"
-    - name: push change
-      env:
-        GITHUB_LOGIN: jwenjian
-        GITHUB_TOKEN: ${{ secrets.SF_L }}
-      run: |
-        git push https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
-    - name: done
-      run: echo 'done'
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+          cache: pip
+          cache-dependency-path: "requirements.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+          
+ - name: Generate new md
+        run: |
+          source venv/bin/activate
+          python main.py ${{ secrets.SF_L }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
+
+      - name: Push README
+        run: |
+          git config --global user.email "platojobs@qq.com"
+          git config --global user.name "platojobs"
+          git add BACKUP/*.md
+          git commit -a -m 'update new blog' || echo "nothing to commit"
+          git push || echo "nothing to push"
+

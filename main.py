@@ -65,17 +65,17 @@ def bundle_summary_section():
 
 <p align='center'>
     <img src="https://badgen.net/badge/labels/{1}"/>
-    <img src="https://badgen.net/github/issues/{0}/ghiblog"/>
+    <img src="https://badgen.net/github/issues/{0}/SFLOG"/>
     <img src="https://badgen.net/badge/last-commit/{2}"/>
-    <img src="https://badgen.net/github/forks/{0}/ghiblog"/>
-    <img src="https://badgen.net/github/stars/{0}/ghiblog"/>
-    <img src="https://badgen.net/github/watchers/{0}/ghiblog"/>
-    <img src="https://badgen.net/github/release/{0}/ghiblog"/>
+    <img src="https://badgen.net/github/forks/{0}/SFLOG"/>
+    <img src="https://badgen.net/github/stars/{0}/SFLOG"/>
+    <img src="https://badgen.net/github/watchers/{0}/SFLOG"/>
+    <img src="https://badgen.net/github/release/{0}/SFLOG"/>
 </p>
 
 <p align='center'>
-    <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.ghiblog"/>
+    <a href="https://github.com/platojobs/visitor-count-badge">
+        <img src="https://github.com/platojobs/platojobs/blob/main/assets/home.gif"/>
     </a>
 </p>
 

@@ -11,11 +11,11 @@ from marko.ext.gfm import gfm as marko
 
 MD_HEAD = """## Gitblog
 My personal blog using issues and GitHub Actions (哈哈)
-[E6高调](https://baidu.com)
+[E6高调](https://github.com/platojobs)
 """
 
 BACKUP_DIR = "BACKUP"
-ANCHOR_NUMBER = 5
+ANCHOR_NUMBER = 10
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]

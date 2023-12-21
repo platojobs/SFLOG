@@ -104,6 +104,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
 - [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
+- [我为什么劝女生要多谈几次恋爱](https://github.com/platojobs/SFLOG/issues/98)--2022-01-28
 - [我仍然想在冬天遇到你](https://github.com/platojobs/SFLOG/issues/96)--2022-01-26
 - [我是一个很需要被爱的人](https://github.com/platojobs/SFLOG/issues/94)--2022-01-24
 - [我终于明白了细节打败爱情这句话](https://github.com/platojobs/SFLOG/issues/93)--2022-01-22
@@ -233,9 +234,10 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
-- [张小娴《总有一天》](https://github.com/platojobs/SFLOG/issues/92)--2022-01-20
+- [叶逸凡站在何嘉如的前途里](https://github.com/platojobs/SFLOG/issues/97)--2022-01-27
 <details><summary>显示更多</summary>
 
+- [张小娴《总有一天》](https://github.com/platojobs/SFLOG/issues/92)--2022-01-20
 - [《孤独的力量》书阅](https://github.com/platojobs/SFLOG/issues/85)--2022-01-11
 - [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
 - [《许你星河千里》书阅](https://github.com/platojobs/SFLOG/issues/76)--2021-12-31

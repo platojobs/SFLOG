@@ -8,7 +8,7 @@ import os
 import time
 import urllib.parse
 import codecs
-from nasa_client import NasaClient
+from nasa_client
 from word_cloud import WordCloudGenerator
 
 user: Github

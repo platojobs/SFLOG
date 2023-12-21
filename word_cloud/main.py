@@ -12,6 +12,7 @@ from nasa_client import NasaClient
 from word_cloud import WordCloudGenerator
 
 user: Github
+username: str
 ghiblog: Repository
 cur_time: str
 
@@ -37,35 +38,32 @@ def update_readme_md_file(contents):
 
 
 def login():
-    global user
-    username = os.environ.get('GITHUB_LOGIN')
+    global user, username
+    github_repo_env = os.environ.get('GITHUB_REPOSITORY')
+    username = github_repo_env[0:github_repo_env.index('/')]
     password = os.environ.get('GITHUB_TOKEN')
     user = Github(username, password)
 
 
 def get_ghiblog():
     global ghiblog
-    ghiblog = user.get_repo('%s/ghiblog' % user.get_user().login)
+    ghiblog = user.get_repo(os.environ.get('GITHUB_REPOSITORY'))
 
 
 def bundle_summary_section():
     global ghiblog
     global cur_time
     global user
+    global username
 
     total_label_count = ghiblog.get_labels().totalCount
     total_issue_count = ghiblog.get_issues().totalCount
 
-    user_login = user.get_user().login
     pic_of_the_day = NasaClient().get_picture_of_the_day()
 
     summary_section = '''
-<p align='center'>
-    <a href="#"><img src="assets/ghiblog.png" width="50%"/></a>
-</p>
 
 <p align='center'>
-    <img src="https://badgen.net/circleci/github/{0}/ghiblog"/>
     <img src="https://badgen.net/badge/labels/{1}"/>
     <img src="https://badgen.net/github/issues/{0}/ghiblog"/>
     <img src="https://badgen.net/badge/last-commit/{2}"/>
@@ -77,23 +75,11 @@ def bundle_summary_section():
 
 <p align='center'>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id={0}.ghiblog"/>
-    </a>
-    <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id={0}.ghiblog"/>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.ghiblog"/>
     </a>
 </p>
 
-## :artificial_satellite:今日图片
-
-<p align="center"><b>{3}</b></p>
-
-<p align="center">
-    <img src="{4}" alt="{3}" title="{5}" width="50%"/>
-</p>
-
-'''.format(user_login, total_label_count, cur_time, pic_of_the_day.title, pic_of_the_day.url,
-           pic_of_the_day.explanation)
+'''.format(username, total_label_count, cur_time)
 
     return summary_section
 
@@ -113,19 +99,22 @@ def bundle_pinned_issues_section():
 
 
 def format_issue_with_labels(issue: Issue):
-    global user
+    global user, username
 
     labels = issue.get_labels()
     labels_str = ''
 
     for label in labels:
         labels_str += '[%s](https://github.com/%s/ghiblog/labels/%s), ' % (
-            label.name, user.get_user().login, urllib.parse.quote(label.name))
+            label.name, username, urllib.parse.quote(label.name))
 
     if '---' in issue.body:
         body_summary = issue.body[:issue.body.index('---')]
     else:
         body_summary = issue.body[:150]
+        # 如果前150个字符中有代码块，则在 150 个字符中重新截取代码块之前的部分作为 summary
+        if '```' in body_summary:
+            body_summary = body_summary[:body_summary.index('```')]
 
     return '''
 #### [{0}]({1}) {2} \t {3}
@@ -201,24 +190,64 @@ def bundle_list_by_labels_section():
     return list_by_labels_section
 
 
-def bundle_about_me_section():
-    global user
+def bundle_cover_image_section() -> str:
+    global ghiblog
+    cover_label = ghiblog.get_label(':framed_picture:封面')
+    if cover_label is None:
+        return ''
+    cover_issues = ghiblog.get_issues(labels=(cover_label,))
+    if cover_issues is None or cover_issues.totalCount == 0:
+        return ''
+    comments = cover_issues[0].get_comments()
+    if comments is None or comments.totalCount == 0:
+        return ''
+    c = comments[comments.totalCount - 1]
+    img_md = None
+    img_desc = ''
+    if '---' in c.body:
+        img_md = c.body.split('---')[0]
+        img_desc = c.body.split('---')[1]
+    else:
+        img_md = c.body
+    if img_md is None:
+        return ''
+    img_url = img_md[(img_md.index('(') + 1):img_md.index(')')]
+    print(img_url)
+    return '''
 
-    about_me_section = '''
-## 关于:boy: 
+<p align='center'>
+<a href='{0}'>
+<img src='{1}' width='50%' alt='{2}'>
+</a>
+</p>
+<p align='center'>
+<span>{2}</span>
+</p>
 
-[<img alt="%s" src="%s" width="233"/>](%s)
+    '''.format(c.html_url, img_url, img_desc)
 
-**%s**
 
-:round_pushpin: %s
+def bundle_projects_section() -> str:
+    global ghiblog, username
+    project_label = ghiblog.get_label('开源')
+    if not project_label:
+        return ''
+    issues = ghiblog.get_issues(labels=(project_label,))
+    if not issues or issues.totalCount == 0:
+        return ''
+    content = ''
+    for (idx, i) in enumerate(issues):
+        content += '''
+| [{1}](https://github.com/{0}/{1}) | {2} | ![](https://badgen.net/github/stars/{0}/{1}) ![](https://badgen.net/github/forks/{0}/{1}) ![](https://badgen.net/github/watchers/{0}/{1}) |'''.format(
+            username, i.title, i.body)
+        if idx == 0:
+            content += '\n| --- | --- | --- |'
+    return '''
+# 开源项目
 
-:black_flag: %s
-''' % (user.get_user().name, user.get_user().avatar_url, user.get_user().html_url, user.get_user().name,
-       user.get_user().location,
-       user.get_user().bio)
+{}
 
-    return about_me_section
+'''.format(content)
 
 
 def execute():
@@ -248,11 +277,20 @@ def execute():
     list_by_labels_section = bundle_list_by_labels_section()
     print(list_by_labels_section)
 
-    # 7. about me section
-    about_me_section = bundle_about_me_section()
-    print(about_me_section)
+    # 7. cover image section
+    cover_image_section = bundle_cover_image_section()
+    print(cover_image_section)
 
-    contents = [summary_section, pinned_issues_section, new_created_section, list_by_labels_section, about_me_section]
+    # 8. projects section
+    projects_section = bundle_projects_section()
+    print(projects_section)
+
+    # 9. about me section
+    # about_me_section = bundle_about_me_section()
+    # print(about_me_section)
+
+    contents = [summary_section, cover_image_section, pinned_issues_section, new_created_section,
+                list_by_labels_section, projects_section]
     update_readme_md_file(contents)
 
     print('README.md updated successfully!!!')

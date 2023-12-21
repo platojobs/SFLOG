@@ -111,6 +111,8 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我们年轻时遇见一些难免爱上的人](https://github.com/platojobs/SFLOG/issues/240)--2022-07-08
 - [江湖很大，有缘再见。](https://github.com/platojobs/SFLOG/issues/239)--2022-07-08
 - [我越来越喜欢温柔的人了](https://github.com/platojobs/SFLOG/issues/238)--2022-07-07
+- [我有一段时间觉得自己特别没有安全感](https://github.com/platojobs/SFLOG/issues/237)--2022-07-05
+- [如果还能剩下什么，那只有厌恶](https://github.com/platojobs/SFLOG/issues/236)--2022-07-04
 - [放过自己也放过对方](https://github.com/platojobs/SFLOG/issues/100)--2022-01-30
 - [我为什么劝女生要多谈几次恋爱](https://github.com/platojobs/SFLOG/issues/98)--2022-01-28
 - [我仍然想在冬天遇到你](https://github.com/platojobs/SFLOG/issues/96)--2022-01-26

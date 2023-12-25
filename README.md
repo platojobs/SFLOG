@@ -35,11 +35,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
 - [冬至](https://github.com/platojobs/SFLOG/issues/325)--2023-12-22
 - [能努力做的，居然只剩下了忘记](https://github.com/platojobs/SFLOG/issues/324)--2023-12-21
 - [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
 - [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
-- [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -245,6 +245,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## BookReading
+- [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
 - [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
 - [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
 - [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
@@ -254,9 +255,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
-- [感性世界](https://github.com/platojobs/SFLOG/issues/233)--2022-07-01
 <details><summary>显示更多</summary>
 
+- [感性世界](https://github.com/platojobs/SFLOG/issues/233)--2022-07-01
 - [给女生关于恋爱的9个建议](https://github.com/platojobs/SFLOG/issues/232)--2022-06-30
 - [时间是一个轮回](https://github.com/platojobs/SFLOG/issues/231)--2022-06-28
 - [坚持读书的理由是什么？](https://github.com/platojobs/SFLOG/issues/230)--2022-06-27

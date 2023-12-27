@@ -35,11 +35,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [再见](https://github.com/platojobs/SFLOG/issues/327)--2023-12-27
 - [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
 - [冬至](https://github.com/platojobs/SFLOG/issues/325)--2023-12-22
 - [能努力做的，居然只剩下了忘记](https://github.com/platojobs/SFLOG/issues/324)--2023-12-21
 - [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
-- [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -277,6 +277,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## DailyTrivialMatters
+- [再见](https://github.com/platojobs/SFLOG/issues/327)--2023-12-27
 - [冬至](https://github.com/platojobs/SFLOG/issues/325)--2023-12-22
 - [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
 - [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
@@ -286,9 +287,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [单身](https://github.com/platojobs/SFLOG/issues/286)--2022-10-22
 - [何必勉强](https://github.com/platojobs/SFLOG/issues/247)--2022-07-22
 - [早安](https://github.com/platojobs/SFLOG/issues/246)--2022-07-22
-- [读书不一定能前程似锦](https://github.com/platojobs/SFLOG/issues/229)--2022-06-27
 <details><summary>显示更多</summary>
 
+- [读书不一定能前程似锦](https://github.com/platojobs/SFLOG/issues/229)--2022-06-27
 - [萨拉·帕坎南 《世上另一个我》](https://github.com/platojobs/SFLOG/issues/224)--2022-06-22
 - [赫尔曼·黑塞](https://github.com/platojobs/SFLOG/issues/223)--2022-06-20
 - [人们都喜欢童言无忌，是因为天真无邪](https://github.com/platojobs/SFLOG/issues/222)--2022-06-18

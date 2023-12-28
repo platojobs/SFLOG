@@ -117,6 +117,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我以前以为热情是可以再生的](https://github.com/platojobs/SFLOG/issues/234)--2022-07-01
 - [我以前是谈起恋爱就特别紧绷的人](https://github.com/platojobs/SFLOG/issues/221)--2022-06-18
 - [松开束缚更能遇见未知的美好](https://github.com/platojobs/SFLOG/issues/220)--2022-06-17
+- [我喜欢看见幸福的人，不管他们结不结婚](https://github.com/platojobs/SFLOG/issues/216)--2022-06-13
 - [放过自己也放过对方](https://github.com/platojobs/SFLOG/issues/100)--2022-01-30
 - [我为什么劝女生要多谈几次恋爱](https://github.com/platojobs/SFLOG/issues/98)--2022-01-28
 - [我仍然想在冬天遇到你](https://github.com/platojobs/SFLOG/issues/96)--2022-01-26

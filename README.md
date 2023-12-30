@@ -35,11 +35,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [生活中男人需要具备的“小聪明”](https://github.com/platojobs/SFLOG/issues/330)--2023-12-30
 - [李敖的经典语录](https://github.com/platojobs/SFLOG/issues/329)--2023-12-30
 - [告别2023](https://github.com/platojobs/SFLOG/issues/328)--2023-12-29
 - [再见](https://github.com/platojobs/SFLOG/issues/327)--2023-12-27
 - [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
-- [冬至](https://github.com/platojobs/SFLOG/issues/325)--2023-12-22
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -155,6 +155,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## Emo
+- [生活中男人需要具备的“小聪明”](https://github.com/platojobs/SFLOG/issues/330)--2023-12-30
 - [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
 - [我一个很好的朋友去年结婚了。](https://github.com/platojobs/SFLOG/issues/309)--2023-09-17
 - [最近在被一个大学生追](https://github.com/platojobs/SFLOG/issues/307)--2023-09-16
@@ -164,9 +165,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [我越来越喜欢那种有回应的爱情](https://github.com/platojobs/SFLOG/issues/250)--2022-07-25
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
-- [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 <details><summary>显示更多</summary>
 
+- [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [何必勉强](https://github.com/platojobs/SFLOG/issues/247)--2022-07-22
 - [读书会与瑜伽实践结合](https://github.com/platojobs/SFLOG/issues/227)--2022-06-24
 - [花褪残红青杏小](https://github.com/platojobs/SFLOG/issues/226)--2022-06-24

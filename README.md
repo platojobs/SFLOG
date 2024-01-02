@@ -268,6 +268,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [赫尔曼·黑塞《园圃之乐》](https://github.com/platojobs/SFLOG/issues/219)--2022-06-16
 - [《人间失格》](https://github.com/platojobs/SFLOG/issues/218)--2022-06-15
 - [《关于峣山的断想》](https://github.com/platojobs/SFLOG/issues/217)--2022-06-13
+- [毛泽东是如何阅读的？](https://github.com/platojobs/SFLOG/issues/215)--2022-06-12
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30
 - [听闻古剑奇谭](https://github.com/platojobs/SFLOG/issues/99)--2022-01-29
 - [叶逸凡站在何嘉如的前途里](https://github.com/platojobs/SFLOG/issues/97)--2022-01-27

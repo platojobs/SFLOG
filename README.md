@@ -35,11 +35,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [《呼吸秋千》](https://github.com/platojobs/SFLOG/issues/331)--2024-01-08
 - [生活中男人需要具备的“小聪明”](https://github.com/platojobs/SFLOG/issues/330)--2023-12-30
 - [李敖的经典语录](https://github.com/platojobs/SFLOG/issues/329)--2023-12-30
 - [告别2023](https://github.com/platojobs/SFLOG/issues/328)--2023-12-29
 - [再见](https://github.com/platojobs/SFLOG/issues/327)--2023-12-27
-- [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -248,6 +248,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## BookReading
+- [《呼吸秋千》](https://github.com/platojobs/SFLOG/issues/331)--2024-01-08
 - [李敖的经典语录](https://github.com/platojobs/SFLOG/issues/329)--2023-12-30
 - [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
 - [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
@@ -257,9 +258,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [食物缺盐是乏味](https://github.com/platojobs/SFLOG/issues/299)--2023-07-21
 - [《乌合之众》](https://github.com/platojobs/SFLOG/issues/297)--2023-06-27
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27
-- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 <details><summary>显示更多</summary>
 
+- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [做一个以自我为中心的人。](https://github.com/platojobs/SFLOG/issues/252)--2022-07-27
 - [感性世界](https://github.com/platojobs/SFLOG/issues/233)--2022-07-01
 - [给女生关于恋爱的9个建议](https://github.com/platojobs/SFLOG/issues/232)--2022-06-30

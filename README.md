@@ -304,6 +304,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [赫尔曼·黑塞](https://github.com/platojobs/SFLOG/issues/223)--2022-06-20
 - [人们都喜欢童言无忌，是因为天真无邪](https://github.com/platojobs/SFLOG/issues/222)--2022-06-18
 - [《黑书》](https://github.com/platojobs/SFLOG/issues/210)--2022-05-30
+- [读书有感](https://github.com/platojobs/SFLOG/issues/209)--2022-05-25
 - [《晚熟的人》 ​​​](https://github.com/platojobs/SFLOG/issues/104)--2022-02-03
 - [吐槽](https://github.com/platojobs/SFLOG/issues/82)--2022-01-06
 - [可我只是在追剧啊啊啊](https://github.com/platojobs/SFLOG/issues/73)--2021-12-27

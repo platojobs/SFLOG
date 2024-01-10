@@ -274,6 +274,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [内卷还是躺平，应当如何做选择？](https://github.com/platojobs/SFLOG/issues/214)--2022-06-09
 - [茅盾：一生革命一生创作](https://github.com/platojobs/SFLOG/issues/212)--2022-06-02
 - [《被讨厌的勇气》](https://github.com/platojobs/SFLOG/issues/211)--2022-06-01
+- [《繁花》之后](https://github.com/platojobs/SFLOG/issues/208)--2022-05-23
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30
 - [听闻古剑奇谭](https://github.com/platojobs/SFLOG/issues/99)--2022-01-29
 - [叶逸凡站在何嘉如的前途里](https://github.com/platojobs/SFLOG/issues/97)--2022-01-27

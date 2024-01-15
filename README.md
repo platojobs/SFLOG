@@ -278,6 +278,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [《繁花》之后](https://github.com/platojobs/SFLOG/issues/208)--2022-05-23
 - [《贪婪的多巴胺》](https://github.com/platojobs/SFLOG/issues/207)--2022-05-22
 - [《呼啸山庄》](https://github.com/platojobs/SFLOG/issues/206)--2022-05-21
+- [品读《明朝那些事儿》](https://github.com/platojobs/SFLOG/issues/204)--2022-05-18
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30
 - [听闻古剑奇谭](https://github.com/platojobs/SFLOG/issues/99)--2022-01-29
 - [叶逸凡站在何嘉如的前途里](https://github.com/platojobs/SFLOG/issues/97)--2022-01-27

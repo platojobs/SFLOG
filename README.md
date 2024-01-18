@@ -47,6 +47,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 <td>https://github.com/JetBrains/kotlin</td>
 <td>It is an open-source, statically typed programming language supported and developed by <a href="https://www.jetbrains.com/">JetBrains</a> and open-source contributors.</td>
 </tr>
+<tr>
+<td>tensorflow</td>
+<td>https://github.com/tensorflow/tensorflow</td>
+<td>TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of <a href="https://www.tensorflow.org/resources/tools">tools</a>, <a href="https://www.tensorflow.org/resources/libraries-extensions">libraries</a>, and <a href="https://www.tensorflow.org/community">community</a> resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.</td>
+</tr>
 </tbody>
 </table>
 

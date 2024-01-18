@@ -304,6 +304,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [《贪婪的多巴胺》](https://github.com/platojobs/SFLOG/issues/207)--2022-05-22
 - [《呼啸山庄》](https://github.com/platojobs/SFLOG/issues/206)--2022-05-21
 - [品读《明朝那些事儿》](https://github.com/platojobs/SFLOG/issues/204)--2022-05-18
+- [佳作如繁星点点，不知是否有你心之所向](https://github.com/platojobs/SFLOG/issues/203)--2022-05-17
 - [当婚后遇到了真爱，你会怎么办？](https://github.com/platojobs/SFLOG/issues/106)--2022-02-04
 - [如何成为高情商、会说话的人？](https://github.com/platojobs/SFLOG/issues/105)--2022-02-04
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30

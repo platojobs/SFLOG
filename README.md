@@ -42,6 +42,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 <td>https://github.com/golang/go</td>
 <td>Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.</td>
 </tr>
+<tr>
+<td>kotlin</td>
+<td>https://github.com/JetBrains/kotlin</td>
+<td>It is an open-source, statically typed programming language supported and developed by <a href="https://www.jetbrains.com/">JetBrains</a> and open-source contributors.</td>
+</tr>
 </tbody>
 </table>
 

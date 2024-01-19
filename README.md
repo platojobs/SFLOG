@@ -52,6 +52,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 <td>https://github.com/tensorflow/tensorflow</td>
 <td>TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of <a href="https://www.tensorflow.org/resources/tools">tools</a>, <a href="https://www.tensorflow.org/resources/libraries-extensions">libraries</a>, and <a href="https://www.tensorflow.org/community">community</a> resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.</td>
 </tr>
+<tr>
+<td>justjavac</td>
+<td>https://github.com/justjavac/free-programming-books-zh_CN</td>
+<td>免费的编程中文书籍索引</td>
+</tr>
 </tbody>
 </table>
 
@@ -60,17 +65,18 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [我不知道是不是我一个人这样。](https://github.com/platojobs/SFLOG/issues/332)--2024-01-18
 - [《呼吸秋千》](https://github.com/platojobs/SFLOG/issues/331)--2024-01-08
 - [生活中男人需要具备的“小聪明”](https://github.com/platojobs/SFLOG/issues/330)--2023-12-30
 - [李敖的经典语录](https://github.com/platojobs/SFLOG/issues/329)--2023-12-30
 - [告别2023](https://github.com/platojobs/SFLOG/issues/328)--2023-12-29
-- [再见](https://github.com/platojobs/SFLOG/issues/327)--2023-12-27
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
 - [02云：职场实习攻略](https://github.com/platojobs/SFLOG/issues/2)--2021-08-05
 ## Abstract
+- [我不知道是不是我一个人这样。](https://github.com/platojobs/SFLOG/issues/332)--2024-01-18
 - [能努力做的，居然只剩下了忘记](https://github.com/platojobs/SFLOG/issues/324)--2023-12-21
 - [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
 - [原来这才是休息2](https://github.com/platojobs/SFLOG/issues/319)--2023-09-30
@@ -80,9 +86,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [爱这种东西，有心者不用教](https://github.com/platojobs/SFLOG/issues/315)--2023-09-27
 - [来自余华的写作建议。](https://github.com/platojobs/SFLOG/issues/313)--2023-09-25
 - [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
-- [不管你信不信](https://github.com/platojobs/SFLOG/issues/310)--2023-09-18
 <details><summary>显示更多</summary>
 
+- [不管你信不信](https://github.com/platojobs/SFLOG/issues/310)--2023-09-18
 - [24条让人受益的箴言](https://github.com/platojobs/SFLOG/issues/306)--2023-09-16
 - [该休息休息](https://github.com/platojobs/SFLOG/issues/304)--2023-09-07
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27

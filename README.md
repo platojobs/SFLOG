@@ -317,6 +317,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [佳作如繁星点点，不知是否有你心之所向](https://github.com/platojobs/SFLOG/issues/203)--2022-05-17
 - [推荐11本个人比较喜欢的书](https://github.com/platojobs/SFLOG/issues/202)--2022-05-15
 - [罗翔推荐的几本书](https://github.com/platojobs/SFLOG/issues/200)--2022-05-13
+- [汪曾祺《人间草木》](https://github.com/platojobs/SFLOG/issues/199)--2022-05-12
 - [当婚后遇到了真爱，你会怎么办？](https://github.com/platojobs/SFLOG/issues/106)--2022-02-04
 - [如何成为高情商、会说话的人？](https://github.com/platojobs/SFLOG/issues/105)--2022-02-04
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30

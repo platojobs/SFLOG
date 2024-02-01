@@ -65,11 +65,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [刘震云的作品](https://github.com/platojobs/SFLOG/issues/337)--2024-02-01
+- [刘震云的作品](https://github.com/platojobs/SFLOG/issues/336)--2024-02-01
 - [提高阅读速度的秘诀](https://github.com/platojobs/SFLOG/issues/335)--2024-01-29
 - [关于爱情的模样，你见过多少种？](https://github.com/platojobs/SFLOG/issues/334)--2024-01-26
 - [吴越老师到底是什么神仙演技啊](https://github.com/platojobs/SFLOG/issues/333)--2024-01-22
-- [我不知道是不是我一个人这样。](https://github.com/platojobs/SFLOG/issues/332)--2024-01-18
-- [《呼吸秋千》](https://github.com/platojobs/SFLOG/issues/331)--2024-01-08
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -281,6 +281,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## BookReading
+- [刘震云的作品](https://github.com/platojobs/SFLOG/issues/337)--2024-02-01
 - [提高阅读速度的秘诀](https://github.com/platojobs/SFLOG/issues/335)--2024-01-29
 - [关于爱情的模样，你见过多少种？](https://github.com/platojobs/SFLOG/issues/334)--2024-01-26
 - [吴越老师到底是什么神仙演技啊](https://github.com/platojobs/SFLOG/issues/333)--2024-01-22
@@ -290,9 +291,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
 - [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
 - [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
-- [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
 <details><summary>显示更多</summary>
 
+- [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10
 - [食物缺盐是乏味](https://github.com/platojobs/SFLOG/issues/299)--2023-07-21
 - [《乌合之众》](https://github.com/platojobs/SFLOG/issues/297)--2023-06-27
 - [立雯《生活在裂隙》](https://github.com/platojobs/SFLOG/issues/296)--2023-06-27

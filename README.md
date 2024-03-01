@@ -247,6 +247,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## MobileDevelopment
+- [Widget 的两种类型](https://github.com/platojobs/SFLOG/issues/195)--2022-05-09
 - [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
 - [swift跳出语句](https://github.com/platojobs/SFLOG/issues/89)--2022-01-17
 - [随手记](https://github.com/platojobs/SFLOG/issues/84)--2022-01-08

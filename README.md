@@ -330,6 +330,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我常听人说男生的喜欢是减分制的。](https://github.com/platojobs/SFLOG/issues/196)--2022-05-10
 - [世间最美的](https://github.com/platojobs/SFLOG/issues/193)--2022-05-07
 - [三毛-3.15](https://github.com/platojobs/SFLOG/issues/192)--2022-05-06
+- [这6本世界名著，含金量很高](https://github.com/platojobs/SFLOG/issues/191)--2022-05-04
 - [当婚后遇到了真爱，你会怎么办？](https://github.com/platojobs/SFLOG/issues/106)--2022-02-04
 - [如何成为高情商、会说话的人？](https://github.com/platojobs/SFLOG/issues/105)--2022-02-04
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30

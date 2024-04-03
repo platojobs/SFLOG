@@ -1,0 +1,40 @@
+# [Rxswift的smaple用法](https://github.com/platojobs/SFLOG/issues/186)
+
+`smaple` 除了订阅源obs以外，还可以监视另外一个notifier
+     之间有源就取最新的源发送
+     两次`noti`之间如果没有源的话，就不会发送
+
+```swift
+
+ func sample(){
+        let disbag = DisposeBag()
+        let source1 = PublishSubject<Int>()
+        let noti1 =  PublishSubject<String>()
+        source1.sample(noti1)
+            .subscribe(onNext: {
+                print($0)
+            },onCompleted: {
+                print("1===completed")
+            }).disposed(by: disbag)
+        
+        source1.onNext(1)    //1
+        noti1.onNext("A")
+        source1.onNext(2)  //2
+        noti1.onNext("B")
+        noti1.onNext("C")
+        source1.onNext(3)
+        source1.onNext(4)
+        noti1.onNext("D")
+        source1.onNext(5)
+        noti1.onCompleted()
+        /*
+         1
+         2
+         4
+         5
+         */
+    }
+
+
+```
+

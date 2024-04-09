@@ -250,15 +250,17 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Widget 的两种类型](https://github.com/platojobs/SFLOG/issues/195)--2022-05-09
 - [swift-enum](https://github.com/platojobs/SFLOG/issues/194)--2022-05-08
 - [Rxswift的smaple用法](https://github.com/platojobs/SFLOG/issues/186)--2022-04-28
+- [RXSwift的merge](https://github.com/platojobs/SFLOG/issues/185)--2022-04-28
+- [swift的enum的内存布局研究](https://github.com/platojobs/SFLOG/issues/184)--2022-04-26
 - [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
 - [swift跳出语句](https://github.com/platojobs/SFLOG/issues/89)--2022-01-17
 - [随手记](https://github.com/platojobs/SFLOG/issues/84)--2022-01-08
 - [57:swiftc常用命令](https://github.com/platojobs/SFLOG/issues/61)--2021-11-30
 - [55:BlockOperation](https://github.com/platojobs/SFLOG/issues/59)--2021-10-25
-- [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
-- [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
 <details><summary>显示更多</summary>
 
+- [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
+- [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
 - [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27
 - [19云：iOS 13.0以后presentViewController](https://github.com/platojobs/SFLOG/issues/19)--2021-08-07
 </details>

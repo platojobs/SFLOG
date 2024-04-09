@@ -65,11 +65,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [Flutter的冒泡排序和快速排序](https://github.com/platojobs/SFLOG/issues/338)--2024-04-09
 - [刘震云的作品](https://github.com/platojobs/SFLOG/issues/337)--2024-02-01
 - [刘震云的作品](https://github.com/platojobs/SFLOG/issues/336)--2024-02-01
 - [提高阅读速度的秘诀](https://github.com/platojobs/SFLOG/issues/335)--2024-01-29
 - [关于爱情的模样，你见过多少种？](https://github.com/platojobs/SFLOG/issues/334)--2024-01-26
-- [吴越老师到底是什么神仙演技啊](https://github.com/platojobs/SFLOG/issues/333)--2024-01-22
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -247,6 +247,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## MobileDevelopment
+- [Flutter的冒泡排序和快速排序](https://github.com/platojobs/SFLOG/issues/338)--2024-04-09
 - [Widget 的两种类型](https://github.com/platojobs/SFLOG/issues/195)--2022-05-09
 - [swift-enum](https://github.com/platojobs/SFLOG/issues/194)--2022-05-08
 - [Rxswift的smaple用法](https://github.com/platojobs/SFLOG/issues/186)--2022-04-28
@@ -256,9 +257,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [swift跳出语句](https://github.com/platojobs/SFLOG/issues/89)--2022-01-17
 - [随手记](https://github.com/platojobs/SFLOG/issues/84)--2022-01-08
 - [57:swiftc常用命令](https://github.com/platojobs/SFLOG/issues/61)--2021-11-30
-- [55:BlockOperation](https://github.com/platojobs/SFLOG/issues/59)--2021-10-25
 <details><summary>显示更多</summary>
 
+- [55:BlockOperation](https://github.com/platojobs/SFLOG/issues/59)--2021-10-25
 - [54: swift的函数](https://github.com/platojobs/SFLOG/issues/58)--2021-10-21
 - [53: swift中枚举的内存布局](https://github.com/platojobs/SFLOG/issues/57)--2021-10-21
 - [33云：swift的Mirror的内部实现，修改代码实现探索](https://github.com/platojobs/SFLOG/issues/33)--2021-08-27

@@ -341,6 +341,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [她才十六岁，还没爱上过谁](https://github.com/platojobs/SFLOG/issues/189)--2022-05-02
 - [生活重要是现在，不要骑马找马](https://github.com/platojobs/SFLOG/issues/188)--2022-05-01
 - [面对压力](https://github.com/platojobs/SFLOG/issues/187)--2022-04-30
+- [与自己和解，与世界和解](https://github.com/platojobs/SFLOG/issues/181)--2022-04-24
 - [当婚后遇到了真爱，你会怎么办？](https://github.com/platojobs/SFLOG/issues/106)--2022-02-04
 - [如何成为高情商、会说话的人？](https://github.com/platojobs/SFLOG/issues/105)--2022-02-04
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30

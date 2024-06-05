@@ -351,6 +351,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [突然“火”出圈的李娟](https://github.com/platojobs/SFLOG/issues/176)--2022-04-18
 - [ 找到想做的事](https://github.com/platojobs/SFLOG/issues/175)--2022-04-17
 - [能沉下心来阅读的人太少了](https://github.com/platojobs/SFLOG/issues/173)--2022-04-15
+- [《世界很喧嚣，做自己就好》](https://github.com/platojobs/SFLOG/issues/171)--2022-04-14
 - [当婚后遇到了真爱，你会怎么办？](https://github.com/platojobs/SFLOG/issues/106)--2022-02-04
 - [如何成为高情商、会说话的人？](https://github.com/platojobs/SFLOG/issues/105)--2022-02-04
 - [《女性贫困》](https://github.com/platojobs/SFLOG/issues/101)--2022-01-30

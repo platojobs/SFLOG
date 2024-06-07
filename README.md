@@ -154,6 +154,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我太羡慕在恋爱中被偏爱的人了。](https://github.com/platojobs/SFLOG/issues/201)--2022-05-15
 - [你要做好心理准备](https://github.com/platojobs/SFLOG/issues/182)--2022-04-25
 - [个世界，基本上没有](https://github.com/platojobs/SFLOG/issues/174)--2022-04-15
+- [希望能拍这样的东西](https://github.com/platojobs/SFLOG/issues/170)--2022-04-13
 - [放过自己也放过对方](https://github.com/platojobs/SFLOG/issues/100)--2022-01-30
 - [我为什么劝女生要多谈几次恋爱](https://github.com/platojobs/SFLOG/issues/98)--2022-01-28
 - [我仍然想在冬天遇到你](https://github.com/platojobs/SFLOG/issues/96)--2022-01-26

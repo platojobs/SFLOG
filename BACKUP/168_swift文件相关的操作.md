@@ -1,6 +1,7 @@
 # [swift文件相关的操作](https://github.com/platojobs/SFLOG/issues/168)
 
-### 路径
+#### 1. 路径
+---- 
 ```swift
 let path1 = "/Users/pj/Downloads/1.html"
 let path2 = "/Users/pj/Documents/GitHub/"
@@ -29,4 +30,42 @@ do {
 } catch {
     print("错误: \(error.localizedDescription)")
 }
+```
+#### 2. 遍历路径下所有目录
+
+```swift
+// 遍历路径下所有目录
+let u3 = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
+let fm = FileManager.default
+fm.enumerator(atPath: u3.path)?.forEach({ path in
+    guard let path = path as? String else {
+        return
+    }
+    let url = URL(fileURLWithPath: path, relativeTo: u3)
+    print(url.lastPathComponent)
+})
+```
+
+#### 3. FileWrapper 的使用
+```swift
+// FileWrapper 的使用
+// 创建文件
+let f1 = FileWrapper(regularFileWithContents: Data("# 第 n 个文件\n ## 标题".utf8))
+f1.fileAttributes[FileAttributeKey.creationDate.rawValue] = Date()
+f1.fileAttributes[FileAttributeKey.modificationDate.rawValue] = Date()
+// 创建文件夹
+let folder1 = FileWrapper(directoryWithFileWrappers: [
+    "file1.md": f1
+])
+folder1.fileAttributes[FileAttributeKey.creationDate.rawValue] = Date()
+folder1.fileAttributes[FileAttributeKey.modificationDate.rawValue] = Date()
+
+do {
+    try folder1.write(
+        to: URL(fileURLWithPath: FileManager.default.currentDirectoryPath).appendingPathComponent("NewFolder"),
+        options: .atomic,
+        originalContentsURL: nil
+    )
+} catch {}
+print(FileManager.default.currentDirectoryPath)
 ```

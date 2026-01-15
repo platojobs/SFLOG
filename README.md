@@ -65,11 +65,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [After Effects](https://github.com/platojobs/SFLOG/issues/343)--2026-01-15
 - [美国3日凌晨对委内瑞拉发起大规模军事行动](https://github.com/platojobs/SFLOG/issues/342)--2026-01-06
 - [陀思妥耶夫斯基《地下室手记》1227](https://github.com/platojobs/SFLOG/issues/341)--2025-12-27
 - [一把骨灰而已](https://github.com/platojobs/SFLOG/issues/340)--2025-06-12
 - [Custom Toggle Switch](https://github.com/platojobs/SFLOG/issues/339)--2024-06-28
-- [Flutter的冒泡排序和快速排序](https://github.com/platojobs/SFLOG/issues/338)--2024-04-09
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
@@ -298,6 +298,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [04云：内存中的区域划分](https://github.com/platojobs/SFLOG/issues/4)--2021-08-05
 </details>
 
+- [After Effects](https://github.com/platojobs/SFLOG/issues/343)--2026-01-15
 - [陀思妥耶夫斯基《地下室手记》1227](https://github.com/platojobs/SFLOG/issues/341)--2025-12-27
 - [一把骨灰而已](https://github.com/platojobs/SFLOG/issues/340)--2025-06-12
 - [刘震云的作品](https://github.com/platojobs/SFLOG/issues/337)--2024-02-01
@@ -307,9 +308,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [《呼吸秋千》](https://github.com/platojobs/SFLOG/issues/331)--2024-01-08
 - [李敖的经典语录](https://github.com/platojobs/SFLOG/issues/329)--2023-12-30
 - [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
-- [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
 <details><summary>显示更多</summary>
 
+- [早睡](https://github.com/platojobs/SFLOG/issues/320)--2023-09-30
 - [人生短暂](https://github.com/platojobs/SFLOG/issues/303)--2023-08-24
 - [星期一，喝抹茶](https://github.com/platojobs/SFLOG/issues/302)--2023-08-22
 - [凡事从自己身上找原因，是一个人强大的开始。](https://github.com/platojobs/SFLOG/issues/301)--2023-08-10

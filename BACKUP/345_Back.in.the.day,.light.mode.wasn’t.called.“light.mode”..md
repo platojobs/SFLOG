@@ -1,0 +1,5 @@
+# [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)
+
+Back in the day, light mode wasn’t called “light mode”. It was just the way that computers were, we didn’t really think about turning everything light or dark. Sure, some applications were often dark (photo editors, IDEs, terminals) but everything else was light, and that was fine.
+
+What we didn’t notice is that light mode has been slowly getting lighter, and I’ve got a graph to prove it. I did what any normal person would do, I downloaded the same (or similar) screenshots from the [MacOS Screenshot Library](https://512pixels.net/projects/aqua-screenshot-library/) on [512 Pixels](https://512pixels.net/). This project would have been much more difficult without a single place to get well-organised screenshots from.

@@ -61,15 +61,18 @@ My personal blog using issues and GitHub Actions (哈哈)
 </table>
 
 ## 置顶文章
+- [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
+- [Flutter的冒泡排序和快速排序](https://github.com/platojobs/SFLOG/issues/338)--2024-04-09
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
+- [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
 - [小狐狸](https://github.com/platojobs/SFLOG/issues/344)--2026-01-18
 - [After Effects](https://github.com/platojobs/SFLOG/issues/343)--2026-01-15
 - [美国3日凌晨对委内瑞拉发起大规模军事行动](https://github.com/platojobs/SFLOG/issues/342)--2026-01-06
-- [陀思妥耶夫斯基《地下室手记》1227](https://github.com/platojobs/SFLOG/issues/341)--2025-12-27
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
@@ -376,6 +379,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [《人生海海》书阅](https://github.com/platojobs/SFLOG/issues/70)--2021-12-22
 </details>
 
+- [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [美国3日凌晨对委内瑞拉发起大规模军事行动](https://github.com/platojobs/SFLOG/issues/342)--2026-01-06
 - [告别2023](https://github.com/platojobs/SFLOG/issues/328)--2023-12-29
 - [再见](https://github.com/platojobs/SFLOG/issues/327)--2023-12-27
@@ -385,9 +389,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
 - [好朋友会让我有安全感的一些点](https://github.com/platojobs/SFLOG/issues/308)--2023-09-16
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
-- [单身](https://github.com/platojobs/SFLOG/issues/286)--2022-10-22
 <details><summary>显示更多</summary>
 
+- [单身](https://github.com/platojobs/SFLOG/issues/286)--2022-10-22
 - [何必勉强](https://github.com/platojobs/SFLOG/issues/247)--2022-07-22
 - [早安](https://github.com/platojobs/SFLOG/issues/246)--2022-07-22
 - [读书不一定能前程似锦](https://github.com/platojobs/SFLOG/issues/229)--2022-06-27

@@ -68,11 +68,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [下午徒步](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [音视频开发](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
 - [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
 - [小狐狸](https://github.com/platojobs/SFLOG/issues/344)--2026-01-18
-- [After Effects](https://github.com/platojobs/SFLOG/issues/343)--2026-01-15
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
@@ -380,6 +380,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [《人生海海》书阅](https://github.com/platojobs/SFLOG/issues/70)--2021-12-22
 </details>
 
+- [下午徒步](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [美国3日凌晨对委内瑞拉发起大规模军事行动](https://github.com/platojobs/SFLOG/issues/342)--2026-01-06
 - [告别2023](https://github.com/platojobs/SFLOG/issues/328)--2023-12-29
@@ -389,9 +390,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
 - [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
 - [好朋友会让我有安全感的一些点](https://github.com/platojobs/SFLOG/issues/308)--2023-09-16
-- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 <details><summary>显示更多</summary>
 
+- [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [单身](https://github.com/platojobs/SFLOG/issues/286)--2022-10-22
 - [何必勉强](https://github.com/platojobs/SFLOG/issues/247)--2022-07-22
 - [早安](https://github.com/platojobs/SFLOG/issues/246)--2022-07-22

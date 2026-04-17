@@ -69,7 +69,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
-- [下午徒步](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
+- [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [音视频开发](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
 - [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
@@ -381,7 +381,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
-- [下午徒步](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
+- [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [美国3日凌晨对委内瑞拉发起大规模军事行动](https://github.com/platojobs/SFLOG/issues/342)--2026-01-06
 - [告别2023](https://github.com/platojobs/SFLOG/issues/328)--2023-12-29

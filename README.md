@@ -68,10 +68,10 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
-- [愿你以书为友，一生受益。](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
+- [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
 - [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
-- [音视频开发](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
+- [Audio and video development](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
 - [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -252,7 +252,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [01云: 温柔的人](https://github.com/platojobs/SFLOG/issues/1)--2021-08-05
 </details>
 
-- [音视频开发](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
+- [Audio and video development](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
 - [Custom Toggle Switch](https://github.com/platojobs/SFLOG/issues/339)--2024-06-28
 - [Flutter的冒泡排序和快速排序](https://github.com/platojobs/SFLOG/issues/338)--2024-04-09
 - [Widget 的两种类型](https://github.com/platojobs/SFLOG/issues/195)--2022-05-09
@@ -302,7 +302,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [04云：内存中的区域划分](https://github.com/platojobs/SFLOG/issues/4)--2021-08-05
 </details>
 
-- [愿你以书为友，一生受益。](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
+- [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 - [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
 - [小狐狸](https://github.com/platojobs/SFLOG/issues/344)--2026-01-18
 - [After Effects](https://github.com/platojobs/SFLOG/issues/343)--2026-01-15

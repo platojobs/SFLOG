@@ -68,11 +68,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## 最近更新
+- [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
 - [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
 - [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [Audio and video development](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
-- [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
@@ -302,6 +302,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [04云：内存中的区域划分](https://github.com/platojobs/SFLOG/issues/4)--2021-08-05
 </details>
 
+- [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
 - [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 - [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
 - [小狐狸](https://github.com/platojobs/SFLOG/issues/344)--2026-01-18
@@ -311,9 +312,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [刘震云的作品](https://github.com/platojobs/SFLOG/issues/337)--2024-02-01
 - [提高阅读速度的秘诀](https://github.com/platojobs/SFLOG/issues/335)--2024-01-29
 - [关于爱情的模样，你见过多少种？](https://github.com/platojobs/SFLOG/issues/334)--2024-01-26
-- [吴越老师到底是什么神仙演技啊](https://github.com/platojobs/SFLOG/issues/333)--2024-01-22
 <details><summary>显示更多</summary>
 
+- [吴越老师到底是什么神仙演技啊](https://github.com/platojobs/SFLOG/issues/333)--2024-01-22
 - [《呼吸秋千》](https://github.com/platojobs/SFLOG/issues/331)--2024-01-08
 - [李敖的经典语录](https://github.com/platojobs/SFLOG/issues/329)--2023-12-30
 - [《麦田守望者》 ​​​](https://github.com/platojobs/SFLOG/issues/326)--2023-12-25
@@ -383,7 +384,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
 - [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
-- [新的开始，新的起点](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
+- [A new beginning, a new starting point](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
 - [美国3日凌晨对委内瑞拉发起大规模军事行动](https://github.com/platojobs/SFLOG/issues/342)--2026-01-06
 - [告别2023](https://github.com/platojobs/SFLOG/issues/328)--2023-12-29
 - [再见](https://github.com/platojobs/SFLOG/issues/327)--2023-12-27

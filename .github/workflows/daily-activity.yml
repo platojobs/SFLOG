@@ -17,11 +17,11 @@ jobs:
   pulse:
     runs-on: ubuntu-latest
     steps:
+      # 不要用空的 PERSONAL_TOKEN 做 checkout，否则会报 token required
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          token: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -41,11 +41,6 @@ jobs:
           GIT_COMMITTER_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'platojobs' }}
           GIT_COMMITTER_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || 'platojobs@qq.com' }}
         run: |
-          if [ -z "$TOKEN" ]; then
-            echo "::error::缺少 secret: PERSONAL_TOKEN（platojobs 账号 PAT，需对本仓库有 push 权限）"
-            exit 1
-          fi
-
           git config user.name "$COMMIT_NAME"
           git config user.email "$COMMIT_EMAIL"
 
@@ -62,4 +57,9 @@ jobs:
           echo "Commit metadata:"
           git log -1 --format=fuller
 
-          git push "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+          if [ -n "$TOKEN" ]; then
+            git push "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+          else
+            echo "::warning::未配置 PERSONAL_TOKEN，使用 GITHUB_TOKEN 推送。请在 Settings → Secrets → Actions 添加 platojobs 的 PAT（repo），绿格子才计入个人账号。"
+            git push origin HEAD:main
+          fi

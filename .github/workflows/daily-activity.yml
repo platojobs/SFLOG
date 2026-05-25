@@ -17,7 +17,7 @@ jobs:
   pulse:
     runs-on: ubuntu-latest
     steps:
-      # 不要用空的 PERSONAL_TOKEN 做 checkout，否则会报 token required
+      # 与 Generate GitBlog README 一致：checkout 不传 token（用 GITHUB_TOKEN）
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -33,7 +33,8 @@ jobs:
 
       - name: Commit and push as platojobs
         env:
-          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          # 本仓库已有的是 SF_L（给 main.py 调 GitHub API），可兼作 push 的 PAT
+          TOKEN: ${{ secrets.SF_L }}
           COMMIT_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'platojobs' }}
           COMMIT_EMAIL: ${{ vars.ACTIVITY_COMMIT_EMAIL || 'platojobs@qq.com' }}
           GIT_AUTHOR_NAME: ${{ vars.ACTIVITY_COMMIT_NAME || 'platojobs' }}
@@ -60,6 +61,6 @@ jobs:
           if [ -n "$TOKEN" ]; then
             git push "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
           else
-            echo "::warning::未配置 PERSONAL_TOKEN，使用 GITHUB_TOKEN 推送。请在 Settings → Secrets → Actions 添加 platojobs 的 PAT（repo），绿格子才计入个人账号。"
+            echo "::warning::未配置 SF_L，使用 checkout 自带的 GITHUB_TOKEN 推送（与 GitBlog workflow 相同）"
             git push origin HEAD:main
           fi

@@ -1,12 +1,12 @@
 {
-  "pulse_count": 2,
-  "last_updated_utc": "2026-05-25T16:39:17Z",
-  "last_updated_local": "2026-05-25",
+  "pulse_count": 3,
+  "last_updated_utc": "2026-05-26T06:31:01Z",
+  "last_updated_local": "2026-05-26",
   "posts_total": 425,
-  "day_of_year": 145,
-  "daily_quote": "旧文仍在 BACKUP 里，新的脉动记下今天。",
+  "day_of_year": 146,
+  "daily_quote": "Issues 写博客，Actions 守节奏。",
   "spotlight": {
-    "title": "分了几个方向去读的书，并推荐如下23本书。",
-    "file": "197_分了几个方向去读的书，并推荐如下23本书。.md"
+    "title": "1",
+    "file": "198_1.md"
   }
 }

@@ -34,8 +34,13 @@ def get_me(user):
     return user.get_user().login
 
 
+def get_allowed_authors(me):
+    authors = {str(me).lower(), "flutterffi"}
+    return authors
+
+
 def is_me(issue, me):
-    return issue.user.login == me
+    return issue.user.login.lower() in get_allowed_authors(me)
 
 
 def is_hearted_by_me(comment, me):
@@ -238,7 +243,7 @@ def add_md_label(repo, md, me):
             md.write("\n")
 
 
-def get_to_generate_issues(repo, dir_name, issue_number=None):
+def get_to_generate_issues(repo, dir_name, me, issue_number=None):
     md_files = os.listdir(dir_name)
     generated_issues_numbers = [
         int(i.split("_")[0]) for i in md_files if i.split("_")[0].isdigit()
@@ -246,10 +251,13 @@ def get_to_generate_issues(repo, dir_name, issue_number=None):
     to_generate_issues = [
         i
         for i in list(repo.get_issues())
+        if is_me(i, me)
         if int(i.number) not in generated_issues_numbers
     ]
     if issue_number:
-        to_generate_issues.append(repo.get_issue(int(issue_number)))
+        issue = repo.get_issue(int(issue_number))
+        if is_me(issue, me) and int(issue.number) not in generated_issues_numbers:
+            to_generate_issues.append(issue)
     return to_generate_issues
 
 
@@ -290,7 +298,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
         func(repo, "README.md", me)
 
     generate_rss_feed(repo, "feed.xml", me)
-    to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
+    to_generate_issues = get_to_generate_issues(repo, dir_name, me, issue_number)
 
     # save md files to backup folder
     for issue in to_generate_issues:
@@ -298,6 +306,8 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
 
 
 def save_issue(issue, me, dir_name=BACKUP_DIR):
+    if not is_me(issue, me):
+        return
     md_name = os.path.join(
         dir_name, f"{issue.number}_{issue.title.replace('/', '-').replace(' ', '.')}.md"
     )

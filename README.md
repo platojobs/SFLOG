@@ -68,11 +68,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## Recent Updates
+- [Flutter 3.44 与 Google I/O 2026 同时发布](https://github.com/platojobs/SFLOG/issues/353)--2026-05-27
 - [Historically, material.dart and cupertino.dart were bundled directly inside the Flutter SDK. Starting with Flutter 3.44](https://github.com/platojobs/SFLOG/issues/352)--2026-05-27
 - [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
 - [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
-- [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -80,6 +80,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [02云：职场实习攻略](https://github.com/platojobs/SFLOG/issues/2)--2021-08-05
 
 ## Abstract
+- [Flutter 3.44 与 Google I/O 2026 同时发布](https://github.com/platojobs/SFLOG/issues/353)--2026-05-27
 - [我不知道是不是我一个人这样。](https://github.com/platojobs/SFLOG/issues/332)--2024-01-18
 - [能努力做的，居然只剩下了忘记](https://github.com/platojobs/SFLOG/issues/324)--2023-12-21
 - [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
@@ -89,9 +90,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [杨绛语录](https://github.com/platojobs/SFLOG/issues/316)--2023-09-28
 - [爱这种东西，有心者不用教](https://github.com/platojobs/SFLOG/issues/315)--2023-09-27
 - [来自余华的写作建议。](https://github.com/platojobs/SFLOG/issues/313)--2023-09-25
-- [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
 <details><summary>显示更多</summary>
 
+- [我有多想你](https://github.com/platojobs/SFLOG/issues/311)--2023-09-22
 - [不管你信不信](https://github.com/platojobs/SFLOG/issues/310)--2023-09-18
 - [24条让人受益的箴言](https://github.com/platojobs/SFLOG/issues/306)--2023-09-16
 - [该休息休息](https://github.com/platojobs/SFLOG/issues/304)--2023-09-07

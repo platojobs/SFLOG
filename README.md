@@ -73,10 +73,13 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
 - [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [Audio and video development](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
+## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
 - [07云：大龄程序员的职业规划](https://github.com/platojobs/SFLOG/issues/7)--2021-08-05
 - [02云：职场实习攻略](https://github.com/platojobs/SFLOG/issues/2)--2021-08-05
+
+## Abstract
 - [我不知道是不是我一个人这样。](https://github.com/platojobs/SFLOG/issues/332)--2024-01-18
 - [能努力做的，居然只剩下了忘记](https://github.com/platojobs/SFLOG/issues/324)--2023-12-21
 - [我最近看到一个热门帖子还蛮触动的](https://github.com/platojobs/SFLOG/issues/323)--2023-12-21
@@ -195,6 +198,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [01云: 温柔的人](https://github.com/platojobs/SFLOG/issues/1)--2021-08-05
 </details>
 
+## Emo
 - [生活中男人需要具备的“小聪明”](https://github.com/platojobs/SFLOG/issues/330)--2023-12-30
 - [再想起他，我的心里都是暖的](https://github.com/platojobs/SFLOG/issues/314)--2023-09-26
 - [我一个很好的朋友去年结婚了。](https://github.com/platojobs/SFLOG/issues/309)--2023-09-17
@@ -252,6 +256,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [01云: 温柔的人](https://github.com/platojobs/SFLOG/issues/1)--2021-08-05
 </details>
 
+## MobileDevelopment
 - [Audio and video development](https://github.com/platojobs/SFLOG/issues/347)--2026-03-10
 - [Custom Toggle Switch](https://github.com/platojobs/SFLOG/issues/339)--2024-06-28
 - [Flutter的冒泡排序和快速排序](https://github.com/platojobs/SFLOG/issues/338)--2024-04-09
@@ -279,6 +284,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [19云：iOS 13.0以后presentViewController](https://github.com/platojobs/SFLOG/issues/19)--2021-08-07
 </details>
 
+## Technology
 - [Quartz 2D绘图中常见的函数及其功能](https://github.com/platojobs/SFLOG/issues/117)--2022-02-15
 - [数据结构](https://github.com/platojobs/SFLOG/issues/95)--2022-01-25
 - [swift冒泡排序测试](https://github.com/platojobs/SFLOG/issues/90)--2022-01-18
@@ -302,6 +308,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [04云：内存中的区域划分](https://github.com/platojobs/SFLOG/issues/4)--2021-08-05
 </details>
 
+## BookReading
 - [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
 - [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 - [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
@@ -384,6 +391,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [《人生海海》书阅](https://github.com/platojobs/SFLOG/issues/70)--2021-12-22
 </details>
 
+## DailyTrivialMatters
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
 - [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [A new beginning, a new starting point](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
@@ -413,12 +421,14 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [孩子最可怜](https://github.com/platojobs/SFLOG/issues/71)--2021-12-24
 </details>
 
+## Think
 - [排解压力](https://github.com/platojobs/SFLOG/issues/277)--2022-09-04
 - [加油](https://github.com/platojobs/SFLOG/issues/258)--2022-08-02
 - [得失](https://github.com/platojobs/SFLOG/issues/251)--2022-07-26
 - [赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/SFLOG/issues/88)--2022-01-15
 - [好的爱人](https://github.com/platojobs/SFLOG/issues/79)--2022-01-03
 - [我不能接受自己不好的这一面](https://github.com/platojobs/SFLOG/issues/72)--2021-12-26
+
 ## TODO
 TODO list from [你想什么呢，不喜欢小孩？](https://github.com/platojobs/SFLOG/issues/81) all done
 

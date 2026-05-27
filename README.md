@@ -369,6 +369,8 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [张爱玲《流言》](https://github.com/platojobs/SFLOG/issues/164)--2022-04-07
 - [蝶恋花](https://github.com/platojobs/SFLOG/issues/163)--2022-04-06
 - [人对自己身心的控制力，就是“觉”。](https://github.com/platojobs/SFLOG/issues/160)--2022-04-02
+- [Liquid Glass](https://github.com/platojobs/SFLOG/issues/109)--2022-02-07
+- [A funny thing](https://github.com/platojobs/SFLOG/issues/108)--2022-02-06
 - [总有一天，你会对过去的伤痛微笑](https://github.com/platojobs/SFLOG/issues/107)--2022-02-05
 - [当婚后遇到了真爱，你会怎么办？](https://github.com/platojobs/SFLOG/issues/106)--2022-02-04
 - [如何成为高情商、会说话的人？](https://github.com/platojobs/SFLOG/issues/105)--2022-02-04

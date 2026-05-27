@@ -217,23 +217,25 @@ def add_md_label(repo, md, me):
             if label.name in IGNORE_LABELS:
                 continue
 
-            issues = get_issues_from_label(repo, label)
-            if issues.totalCount:
-                md.write("## " + label.name + "\n")
-                issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
+            issues = list(get_issues_from_label(repo, label))
+            issues = [issue for issue in issues if issue and is_me(issue, me)]
+            if not issues:
+                continue
+
+            md.write("## " + label.name + "\n")
+            issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
+
             i = 0
             for issue in issues:
-                if not issue:
-                    continue
-                if is_me(issue, me):
-                    if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
-                        md.write("\n")
-                    add_issue_info(issue, md)
-                    i += 1
+                if i == ANCHOR_NUMBER:
+                    md.write("<details><summary>显示更多</summary>\n")
+                    md.write("\n")
+                add_issue_info(issue, md)
+                i += 1
+
             if i > ANCHOR_NUMBER:
                 md.write("</details>\n")
-                md.write("\n")
+            md.write("\n")
 
 
 def get_to_generate_issues(repo, dir_name, issue_number=None):

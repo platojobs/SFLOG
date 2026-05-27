@@ -52,13 +52,16 @@ jobs:
 
       - name: Trigger platojobs.github.io rebuild
         env:
-          GH_TOKEN: ${{ secrets.SF_L }}
+          GH_TOKEN: ${{ secrets.PAGES_TRIGGER_TOKEN }}
         run: |
           if [ -z "$GH_TOKEN" ]; then
-            echo "::warning::SF_L is not configured, skipping platojobs.github.io rebuild dispatch"
+            echo "::warning::PAGES_TRIGGER_TOKEN is not configured, skipping platojobs.github.io rebuild dispatch"
             exit 0
           fi
 
-          gh api repos/platojobs/platojobs.github.io/dispatches \
+          if ! gh api repos/platojobs/platojobs.github.io/dispatches \
             --method POST \
-            -f event_type='sflog-updated'
+            -f event_type='sflog-updated'; then
+            echo "::warning::Failed to dispatch platojobs.github.io rebuild. Check PAGES_TRIGGER_TOKEN permissions."
+            exit 0
+          fi

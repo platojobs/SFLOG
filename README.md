@@ -60,14 +60,14 @@ My personal blog using issues and GitHub Actions (哈哈)
 </tbody>
 </table>
 
-## 置顶文章
+## Featured Posts
 - [Back in the day, light mode wasn’t called “light mode”.](https://github.com/platojobs/SFLOG/issues/345)--2026-01-26
 - [Flutter的冒泡排序和快速排序](https://github.com/platojobs/SFLOG/issues/338)--2024-04-09
 - [在一段感情里](https://github.com/platojobs/SFLOG/issues/249)--2022-07-24
 - [我发现缘分这个东西真的很难琢磨。](https://github.com/platojobs/SFLOG/issues/248)--2022-07-23
 - [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
-## 最近更新
+## Recent Updates
 - [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
 - [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13

@@ -12,6 +12,9 @@ on:
     paths:
       - main.py
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     name: Generate README
@@ -46,3 +49,16 @@ jobs:
           git add BACKUP/*.md
           git commit -a -m 'update new blog' || echo "nothing to commit"
           git push || echo "nothing to push"
+
+      - name: Trigger platojobs.github.io rebuild
+        env:
+          GH_TOKEN: ${{ secrets.SF_L }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::SF_L is not configured, skipping platojobs.github.io rebuild dispatch"
+            exit 0
+          fi
+
+          gh api repos/platojobs/platojobs.github.io/dispatches \
+            --method POST \
+            -f event_type='sflog-updated'

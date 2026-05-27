@@ -115,7 +115,8 @@ def get_repo_labels(repo):
 
 
 def get_issues_from_label(repo, label):
-    return repo.get_issues(labels=(label,))
+    label_name = label.name if hasattr(label, "name") else str(label)
+    return repo.get_issues(labels=[label_name])
 
 
 def add_issue_info(issue, md):

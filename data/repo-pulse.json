@@ -1,12 +1,12 @@
 {
-  "pulse_count": 6,
-  "last_updated_utc": "2026-05-29T06:38:07Z",
-  "last_updated_local": "2026-05-29",
+  "pulse_count": 7,
+  "last_updated_utc": "2026-05-30T06:00:29Z",
+  "last_updated_local": "2026-05-30",
   "posts_total": 432,
-  "day_of_year": 149,
-  "daily_quote": "代码会过时，文字常留痕。",
+  "day_of_year": 150,
+  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
   "spotlight": {
-    "title": "分了几个方向去读的书，并推荐如下23本书。",
-    "file": "197_分了几个方向去读的书，并推荐如下23本书。.md"
+    "title": "1",
+    "file": "198_1.md"
   }
 }

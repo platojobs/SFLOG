@@ -1,12 +1,12 @@
 {
-  "pulse_count": 14,
-  "last_updated_utc": "2026-06-06T06:07:40Z",
-  "last_updated_local": "2026-06-06",
+  "pulse_count": 15,
+  "last_updated_utc": "2026-06-07T06:47:54Z",
+  "last_updated_local": "2026-06-07",
   "posts_total": 432,
-  "day_of_year": 157,
-  "daily_quote": "代码会过时，文字常留痕。",
+  "day_of_year": 158,
+  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
   "spotlight": {
-    "title": "罗翔推荐的几本书",
-    "file": "200_罗翔推荐的几本书.md"
+    "title": "1",
+    "file": "201_1.md"
   }
 }

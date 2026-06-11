@@ -1,12 +1,12 @@
 {
-  "pulse_count": 18,
-  "last_updated_utc": "2026-06-10T06:48:46Z",
-  "last_updated_local": "2026-06-10",
+  "pulse_count": 19,
+  "last_updated_utc": "2026-06-11T07:14:25Z",
+  "last_updated_local": "2026-06-11",
   "posts_total": 432,
-  "day_of_year": 161,
-  "daily_quote": "旧文仍在 BACKUP 里，新的脉动记下今天。",
+  "day_of_year": 162,
+  "daily_quote": "Issues 写博客，Actions 守节奏。",
   "spotlight": {
-    "title": "推荐11本个人比较喜欢的书",
-    "file": "202_推荐11本个人比较喜欢的书.md"
+    "title": "1",
+    "file": "203_1.md"
   }
 }

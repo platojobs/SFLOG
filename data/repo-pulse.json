@@ -1,12 +1,12 @@
 {
-  "pulse_count": 22,
-  "last_updated_utc": "2026-06-14T07:05:58Z",
-  "last_updated_local": "2026-06-14",
+  "pulse_count": 23,
+  "last_updated_utc": "2026-06-15T08:35:56Z",
+  "last_updated_local": "2026-06-15",
   "posts_total": 432,
-  "day_of_year": 165,
-  "daily_quote": "代码会过时，文字常留痕。",
+  "day_of_year": 166,
+  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
   "spotlight": {
-    "title": "品读《明朝那些事儿》",
-    "file": "204_品读《明朝那些事儿》.md"
+    "title": "1",
+    "file": "205_1.md"
   }
 }

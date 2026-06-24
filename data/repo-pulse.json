@@ -1,12 +1,12 @@
 {
-  "pulse_count": 31,
-  "last_updated_utc": "2026-06-23T06:31:51Z",
-  "last_updated_local": "2026-06-23",
+  "pulse_count": 32,
+  "last_updated_utc": "2026-06-24T06:28:56Z",
+  "last_updated_local": "2026-06-24",
   "posts_total": 432,
-  "day_of_year": 174,
-  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
+  "day_of_year": 175,
+  "daily_quote": "仓库安静，脉动很轻。",
   "spotlight": {
-    "title": "1",
-    "file": "209_1.md"
+    "title": "读书有感",
+    "file": "209_读书有感.md"
   }
 }

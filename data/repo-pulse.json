@@ -1,12 +1,12 @@
 {
-  "pulse_count": 35,
-  "last_updated_utc": "2026-06-27T06:07:35Z",
-  "last_updated_local": "2026-06-27",
+  "pulse_count": 36,
+  "last_updated_utc": "2026-06-28T06:43:09Z",
+  "last_updated_local": "2026-06-28",
   "posts_total": 432,
-  "day_of_year": 178,
-  "daily_quote": "Issues 写博客，Actions 守节奏。",
+  "day_of_year": 179,
+  "daily_quote": "读一篇 BACKUP，像翻开昨天的云笔记。",
   "spotlight": {
-    "title": "《黑书》",
-    "file": "210_《黑书》.md"
+    "title": "1",
+    "file": "211_1.md"
   }
 }

@@ -1,12 +1,12 @@
 {
-  "pulse_count": 54,
-  "last_updated_utc": "2026-07-16T05:24:29Z",
-  "last_updated_local": "2026-07-16",
+  "pulse_count": 55,
+  "last_updated_utc": "2026-07-17T05:26:14Z",
+  "last_updated_local": "2026-07-17",
   "posts_total": 432,
-  "day_of_year": 197,
-  "daily_quote": "代码会过时，文字常留痕。",
+  "day_of_year": 198,
+  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
   "spotlight": {
-    "title": "21云：恋爱真理",
-    "file": "21_21云：恋爱真理.md"
+    "title": "1",
+    "file": "220_1.md"
   }
 }

@@ -1,12 +1,12 @@
 {
-  "pulse_count": 62,
-  "last_updated_utc": "2026-07-24T05:34:58Z",
-  "last_updated_local": "2026-07-24",
+  "pulse_count": 63,
+  "last_updated_utc": "2026-07-25T05:28:11Z",
+  "last_updated_local": "2026-07-25",
   "posts_total": 432,
-  "day_of_year": 205,
-  "daily_quote": "代码会过时，文字常留痕。",
+  "day_of_year": 206,
+  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
   "spotlight": {
     "title": "1",
-    "file": "225_1.md"
+    "file": "226_1.md"
   }
 }

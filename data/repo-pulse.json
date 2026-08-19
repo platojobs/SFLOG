@@ -1,12 +1,12 @@
 {
-  "pulse_count": 87,
-  "last_updated_utc": "2026-08-18T03:22:37Z",
-  "last_updated_local": "2026-08-18",
+  "pulse_count": 88,
+  "last_updated_utc": "2026-08-19T03:24:37Z",
+  "last_updated_local": "2026-08-19",
   "posts_total": 432,
-  "day_of_year": 230,
-  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
+  "day_of_year": 231,
+  "daily_quote": "仓库安静，脉动很轻。",
   "spotlight": {
-    "title": "244",
-    "file": "244_244.md"
+    "title": "用github来写博客",
+    "file": "245_用github来写博客.md"
   }
 }

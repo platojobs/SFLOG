@@ -1,12 +1,12 @@
 {
-  "pulse_count": 88,
-  "last_updated_utc": "2026-08-19T03:24:37Z",
-  "last_updated_local": "2026-08-19",
+  "pulse_count": 89,
+  "last_updated_utc": "2026-08-20T03:24:13Z",
+  "last_updated_local": "2026-08-20",
   "posts_total": 432,
-  "day_of_year": 231,
-  "daily_quote": "仓库安静，脉动很轻。",
+  "day_of_year": 232,
+  "daily_quote": "备份即记忆，每日一点维护，仓库也在呼吸。",
   "spotlight": {
-    "title": "用github来写博客",
-    "file": "245_用github来写博客.md"
+    "title": "早安",
+    "file": "246_早安.md"
   }
 }

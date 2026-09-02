@@ -1,12 +1,12 @@
 {
-  "pulse_count": 101,
-  "last_updated_utc": "2026-09-01T07:56:05Z",
-  "last_updated_local": "2026-09-01",
+  "pulse_count": 102,
+  "last_updated_utc": "2026-09-02T07:15:08Z",
+  "last_updated_local": "2026-09-02",
   "posts_total": 432,
-  "day_of_year": 244,
-  "daily_quote": "绿格子是习惯，不是表演。",
+  "day_of_year": 245,
+  "daily_quote": "代码会过时，文字常留痕。",
   "spotlight": {
-    "title": "成熟",
-    "file": "257_成熟.md"
+    "title": "加油",
+    "file": "258_加油.md"
   }
 }

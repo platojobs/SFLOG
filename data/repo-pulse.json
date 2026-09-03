@@ -1,12 +1,12 @@
 {
-  "pulse_count": 102,
-  "last_updated_utc": "2026-09-02T07:15:08Z",
-  "last_updated_local": "2026-09-02",
+  "pulse_count": 103,
+  "last_updated_utc": "2026-09-03T07:18:56Z",
+  "last_updated_local": "2026-09-03",
   "posts_total": 432,
-  "day_of_year": 245,
-  "daily_quote": "代码会过时，文字常留痕。",
+  "day_of_year": 246,
+  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
   "spotlight": {
-    "title": "加油",
-    "file": "258_加油.md"
+    "title": "亲密关系",
+    "file": "259_亲密关系.md"
   }
 }

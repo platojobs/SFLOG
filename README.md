@@ -68,11 +68,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## Recent Updates
+- [The Warmest Stranger](https://github.com/platojobs/SFLOG/issues/355)--2026-10-29
 - [认知水平的人，再努力也没用](https://github.com/platojobs/SFLOG/issues/354)--2026-05-27
 - [Flutter 3.44 与 Google I/O 2026 同时发布](https://github.com/platojobs/SFLOG/issues/353)--2026-05-27
 - [Historically, material.dart and cupertino.dart were bundled directly inside the Flutter SDK. Starting with Flutter 3.44](https://github.com/platojobs/SFLOG/issues/352)--2026-05-27
 - [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
-- [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -313,6 +313,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## BookReading
+- [The Warmest Stranger](https://github.com/platojobs/SFLOG/issues/355)--2026-10-29
 - [Historically, material.dart and cupertino.dart were bundled directly inside the Flutter SDK. Starting with Flutter 3.44](https://github.com/platojobs/SFLOG/issues/352)--2026-05-27
 - [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
 - [May you make books your friends and reap benefits throughout your life.](https://github.com/platojobs/SFLOG/issues/350)--2026-04-21
@@ -322,9 +323,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [陀思妥耶夫斯基《地下室手记》1227](https://github.com/platojobs/SFLOG/issues/341)--2025-12-27
 - [一把骨灰而已](https://github.com/platojobs/SFLOG/issues/340)--2025-06-12
 - [刘震云的作品](https://github.com/platojobs/SFLOG/issues/337)--2024-02-01
-- [提高阅读速度的秘诀](https://github.com/platojobs/SFLOG/issues/335)--2024-01-29
 <details><summary>显示更多</summary>
 
+- [提高阅读速度的秘诀](https://github.com/platojobs/SFLOG/issues/335)--2024-01-29
 - [关于爱情的模样，你见过多少种？](https://github.com/platojobs/SFLOG/issues/334)--2024-01-26
 - [吴越老师到底是什么神仙演技啊](https://github.com/platojobs/SFLOG/issues/333)--2024-01-22
 - [《呼吸秋千》](https://github.com/platojobs/SFLOG/issues/331)--2024-01-08

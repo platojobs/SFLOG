@@ -68,11 +68,11 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [Flutter异步支持](https://github.com/platojobs/SFLOG/issues/172)--2022-04-14
 - [灵魂伴侣](https://github.com/platojobs/SFLOG/issues/80)--2022-01-04
 ## Recent Updates
+- [Every Generation Has Its Own "Plastic Bags](https://github.com/platojobs/SFLOG/issues/356)--2026-10-30
 - [The Warmest Stranger](https://github.com/platojobs/SFLOG/issues/355)--2026-10-29
 - [认知水平的人，再努力也没用](https://github.com/platojobs/SFLOG/issues/354)--2026-05-27
 - [Flutter 3.44 与 Google I/O 2026 同时发布](https://github.com/platojobs/SFLOG/issues/353)--2026-05-27
 - [Historically, material.dart and cupertino.dart were bundled directly inside the Flutter SDK. Starting with Flutter 3.44](https://github.com/platojobs/SFLOG/issues/352)--2026-05-27
-- [If two people in a close relationship are highly integrated,](https://github.com/platojobs/SFLOG/issues/351)--2026-04-26
 ## Workplace
 - [为什么我不主动感情就淡了](https://github.com/platojobs/SFLOG/issues/264)--2022-08-10
 - [09云：做到这些，你就超越了大多的同龄人](https://github.com/platojobs/SFLOG/issues/9)--2021-08-06
@@ -399,6 +399,7 @@ My personal blog using issues and GitHub Actions (哈哈)
 </details>
 
 ## DailyTrivialMatters
+- [Every Generation Has Its Own "Plastic Bags](https://github.com/platojobs/SFLOG/issues/356)--2026-10-30
 - [Fix the testing issues](https://github.com/platojobs/SFLOG/issues/349)--2026-04-13
 - [Hiking in the afternoon](https://github.com/platojobs/SFLOG/issues/348)--2026-04-11
 - [A new beginning, a new starting point](https://github.com/platojobs/SFLOG/issues/346)--2026-03-04
@@ -408,9 +409,9 @@ My personal blog using issues and GitHub Actions (哈哈)
 - [冬至](https://github.com/platojobs/SFLOG/issues/325)--2023-12-22
 - [恋爱](https://github.com/platojobs/SFLOG/issues/322)--2023-10-08
 - [热情是可以再生的吗？](https://github.com/platojobs/SFLOG/issues/321)--2023-10-08
-- [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
 <details><summary>显示更多</summary>
 
+- [发泄](https://github.com/platojobs/SFLOG/issues/312)--2023-09-24
 - [好朋友会让我有安全感的一些点](https://github.com/platojobs/SFLOG/issues/308)--2023-09-16
 - [青春里有这样的人](https://github.com/platojobs/SFLOG/issues/295)--2023-03-10
 - [单身](https://github.com/platojobs/SFLOG/issues/286)--2022-10-22

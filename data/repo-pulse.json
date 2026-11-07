@@ -1,12 +1,12 @@
 {
-  "pulse_count": 166,
-  "last_updated_utc": "2026-11-06T09:40:14Z",
-  "last_updated_local": "2026-11-06",
+  "pulse_count": 167,
+  "last_updated_utc": "2026-11-07T09:03:05Z",
+  "last_updated_local": "2026-11-07",
   "posts_total": 434,
-  "day_of_year": 310,
-  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
+  "day_of_year": 311,
+  "daily_quote": "仓库安静，脉动很轻。",
   "spotlight": {
-    "title": "杨绛语录",
-    "file": "316_杨绛语录.md"
+    "title": "文摘，一次",
+    "file": "317_文摘，一次.md"
   }
 }

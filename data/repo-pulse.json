@@ -1,12 +1,12 @@
 {
-  "pulse_count": 181,
-  "last_updated_utc": "2026-11-21T10:02:55Z",
-  "last_updated_local": "2026-11-21",
+  "pulse_count": 182,
+  "last_updated_utc": "2026-11-22T10:05:09Z",
+  "last_updated_local": "2026-11-22",
   "posts_total": 434,
-  "day_of_year": 325,
-  "daily_quote": "代码会过时，文字常留痕。",
+  "day_of_year": 326,
+  "daily_quote": "每天一行日志，胜过偶尔一次大修。",
   "spotlight": {
-    "title": "李敖的经典语录",
-    "file": "329_李敖的经典语录.md"
+    "title": "32云：做真实的自己吧",
+    "file": "32_32云：做真实的自己吧.md"
   }
 }
